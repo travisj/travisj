@@ -1,0 +1,7 @@
+---
+layout: post
+date: 2007-10-12 22:53:23 GMT
+title: "Link post"
+---
+<http://www.restlet.org/>
+

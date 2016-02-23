@@ -1,0 +1,8 @@
+---
+layout: post
+date: 2011-04-30 19:16:06 GMT
+title: "Link post"
+---
+<http://hackertyper.net/>
+
+<p>too much fun!</p> 

@@ -1,0 +1,6 @@
+---
+layout: post
+date: 2008-10-29 19:23:20 GMT
+title: ""
+---
+figured out my problem in a dream. i pointed my local dns entry for my prod host to my dev host. oauth authentication worked after that!

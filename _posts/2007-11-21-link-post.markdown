@@ -1,0 +1,7 @@
+---
+layout: post
+date: 2007-11-21 20:09:11 GMT
+title: "Link post"
+---
+<http://simplifymedia.com/>
+

@@ -1,0 +1,8 @@
+---
+layout: post
+date: 2008-12-01 02:43:36 GMT
+title: "Photo post"
+---
+{% img /images/047f965f7d2b8b543cd837884359051344b4497b57d3d0f38622885b42c2cafb.jpg %}
+
+Crusher is going to just pass out in agony if he doesn't get some of the cookies Rachel is making.

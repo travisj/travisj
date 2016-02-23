@@ -1,0 +1,7 @@
+---
+layout: post
+date: 2007-06-29 18:04:25 GMT
+title: "Link post"
+---
+<http://stevesouders.com/examples/rules.php>
+

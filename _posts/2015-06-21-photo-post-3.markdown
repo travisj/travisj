@@ -1,0 +1,8 @@
+---
+layout: post
+date: 2015-06-21 02:11:56 GMT
+title: "Photo post"
+---
+{% img /images/51945362955cc561675578cb646d38c9be073625fb31d2c2340cd320369bbedc.jpg %}
+
+<p>Kenneth got to talk to his grandparents tonight on FaceTime. He showed off his ability to sit all on his own and a few other tricks. When they make big movements, he’s able to see them and pays attention for a few seconds. It’s great having technology that keeps us connected even when we are thousands of miles apart.</p>

@@ -1,0 +1,8 @@
+---
+layout: post
+date: 2010-09-23 03:59:50 GMT
+title: "Link post"
+---
+<http://feeds.theonion.com/~r/theonion/daily/~3/r9eIStj9OlA/>
+
+<p> </p>

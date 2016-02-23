@@ -1,0 +1,8 @@
+---
+layout: post
+date: 2009-07-05 15:22:00 GMT
+title: "Photo post"
+---
+{% img /images/773bc20656bd0272c61ecbe9f99786481dd6d979c42afab18074720aa4563e52.jpg %}
+
+<b>4th of July fireworks on the Hudson river.</b>

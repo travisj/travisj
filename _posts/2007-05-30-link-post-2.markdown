@@ -1,0 +1,7 @@
+---
+layout: post
+date: 2007-05-30 12:32:27 GMT
+title: "Link post"
+---
+<http://www.funnyordie.com/v1/view_video.php?viewkey=03666634ac75d828439b>
+

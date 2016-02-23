@@ -1,0 +1,7 @@
+---
+layout: post
+date: 2007-08-22 21:07:26 GMT
+title: "Link post"
+---
+<http://www.collegehumor.com/article/tag:hardly-working>
+

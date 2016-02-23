@@ -1,0 +1,6 @@
+---
+layout: post
+date: 2008-10-29 08:22:46 GMT
+title: ""
+---
+does anyone know a good way to develop y!os applications? i set up oauth for production, but my dev host is on an internal network.

@@ -1,0 +1,7 @@
+---
+layout: post
+date: 2007-11-29 23:46:14 GMT
+title: "Link post"
+---
+<http://www.crockford.com/html/>
+

@@ -1,0 +1,7 @@
+---
+layout: post
+date: 2007-09-25 02:37:33 GMT
+title: "Link post"
+---
+<http://www.slapcountdown.com/>
+

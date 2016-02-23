@@ -1,0 +1,7 @@
+---
+layout: post
+date: 2007-09-24 20:25:16 GMT
+title: "Link post"
+---
+<http://www.alistapart.com/articles/putyourcontentinmypocketpart2>
+

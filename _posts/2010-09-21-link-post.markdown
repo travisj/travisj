@@ -1,0 +1,8 @@
+---
+layout: post
+date: 2010-09-21 17:15:18 GMT
+title: "Link post"
+---
+<http://mp3muffin.com/train/gracelandc.mp3>
+
+<p>Great cover sent to me by Pat.</p> 

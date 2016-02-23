@@ -1,0 +1,8 @@
+---
+layout: post
+date: 2008-04-20 04:03:17 GMT
+title: "Photo post"
+---
+{% img /images/be729fcb6dc781580887d66e936f3a6072ebd1a8240ade3694831743daa3cad4.jpg %}
+
+<b>Not sure why I am not smiling.</b>

@@ -1,0 +1,7 @@
+---
+layout: post
+date: 2007-05-14 15:08:16 GMT
+title: "Link post"
+---
+<http://green.yahoo.com/>
+

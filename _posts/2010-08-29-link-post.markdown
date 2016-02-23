@@ -1,0 +1,8 @@
+---
+layout: post
+date: 2010-08-29 22:21:00 GMT
+title: "Link post"
+---
+<http://www.goducks.com/ViewArticle.dbml?SPSID=3383&SPID=233&DB_LANG=C&DB_OEM_ID=500&ATCLID=204984097>
+
+If he changes his number to 10, it will look just like the good old days when Dennis was QB.

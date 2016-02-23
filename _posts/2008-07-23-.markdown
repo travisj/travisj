@@ -1,0 +1,6 @@
+---
+layout: post
+date: 2008-07-23 03:59:19 GMT
+title: ""
+---
+woah. the seeqpod api is awesome. i must build something with it soon!

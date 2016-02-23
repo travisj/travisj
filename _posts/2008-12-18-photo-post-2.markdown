@@ -1,0 +1,8 @@
+---
+layout: post
+date: 2008-12-18 03:37:39 GMT
+title: "Photo post"
+---
+{% img /images/2acd1b2b05e0c64f103632f3896517c8ca8e56a97da8f77b10b4d937db5e5433.jpg %}
+
+We're packing up for our big trip.

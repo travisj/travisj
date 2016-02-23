@@ -1,0 +1,8 @@
+---
+layout: post
+date: 2008-04-13 02:41:48 GMT
+title: "Photo post"
+---
+{% img /images/fa11e8229052e9a453be658680278e71fb9a35621fcab36c8b3ad193ef0451a2.jpg %}
+
+<b>On the way to Portland with snow-capped mountains in the distance</b>

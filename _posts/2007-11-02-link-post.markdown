@@ -1,0 +1,7 @@
+---
+layout: post
+date: 2007-11-02 14:33:51 GMT
+title: "Link post"
+---
+<http://code.google.com/apis/opensocial/>
+

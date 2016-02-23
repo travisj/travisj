@@ -1,0 +1,8 @@
+---
+layout: post
+date: 2008-04-13 20:20:03 GMT
+title: "Photo post"
+---
+{% img /images/e3455ac89a41071c7f2c4ea05f667abfe34b0a838aefe2055177ac466f31ccd6.jpg %}
+
+<b>Watching the masters with rachel</b>

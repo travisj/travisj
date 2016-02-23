@@ -1,0 +1,7 @@
+---
+layout: post
+date: 2007-11-29 03:15:11 GMT
+title: "Link post"
+---
+<http://www.redhatmagazine.com/2007/11/27/advanced-ssh-configuration-and-tunneling-we-dont-need-no-stinking-vpn-software/>
+

@@ -1,0 +1,7 @@
+---
+layout: post
+date: 2007-09-10 20:04:03 GMT
+title: "Link post"
+---
+<http://online.wsj.com/article/SB118938678775322168.html>
+

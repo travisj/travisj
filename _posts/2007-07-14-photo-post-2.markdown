@@ -1,0 +1,8 @@
+---
+layout: post
+date: 2007-07-14 17:10:42 GMT
+title: "Photo post"
+---
+{% img /images/f9fb426ebf592c0b30bcb2ec1c33374c69e87fdc12961202c02bda0791da1560.jpg %}
+
+<b>07-14-07_0944.jpg:</b> T-Mobile (via <a href="http://www.flickr.com/photos/travisjohnson/809190523/">Photos from travisjohnson</a>)

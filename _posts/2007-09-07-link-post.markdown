@@ -1,0 +1,7 @@
+---
+layout: post
+date: 2007-09-07 19:05:53 GMT
+title: "Link post"
+---
+<http://webot.com/index.cfm>
+

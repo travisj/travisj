@@ -1,0 +1,7 @@
+---
+layout: post
+date: 2007-10-18 19:05:07 GMT
+title: "Link post"
+---
+<http://www.nytimes.com/2007/10/18/us/18owl.html?adxnnl=1&adxnnlx=1192734283-2XfTpSXKEpU5y1szuj5K5A>
+

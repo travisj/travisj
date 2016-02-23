@@ -1,0 +1,8 @@
+---
+layout: post
+date: 2008-05-18 02:49:19 GMT
+title: "Photo post"
+---
+{% img /images/311f908e35d01ad4a7020ad737ac19c664ce4e1696fa7b78b58adcaf372b78a9.jpg %}
+
+<b>Crusher supports Obama</b>

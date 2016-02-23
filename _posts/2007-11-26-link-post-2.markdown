@@ -1,0 +1,7 @@
+---
+layout: post
+date: 2007-11-26 00:12:33 GMT
+title: "Link post"
+---
+<http://weblog.mediatemple.net/weblog/category/system-incidents/web-latency-on-gs-gridcluster1/>
+

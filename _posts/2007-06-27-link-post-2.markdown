@@ -1,0 +1,7 @@
+---
+layout: post
+date: 2007-06-27 18:48:53 GMT
+title: "Link post"
+---
+<http://www.amazon.com/Managing-Humans-Humorous-Software-Engineering/dp/159059844X>
+

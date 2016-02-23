@@ -1,0 +1,7 @@
+---
+layout: post
+date: 2007-09-24 15:29:56 GMT
+title: "Link post"
+---
+<http://kickapps.com/>
+

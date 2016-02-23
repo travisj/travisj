@@ -1,0 +1,7 @@
+---
+layout: post
+date: 2007-12-01 09:40:26 GMT
+title: "Link post"
+---
+<http://www.qvc.com/qic/qvcapp.aspx/view.2/app.detail/params.CM_SCID.coll>
+

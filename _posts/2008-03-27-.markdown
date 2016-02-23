@@ -1,0 +1,6 @@
+---
+layout: post
+date: 2008-03-27 15:52:47 GMT
+title: ""
+---
+amazon ec2 just announced elastic ips! time to start moving some sites again.

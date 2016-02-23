@@ -1,0 +1,7 @@
+---
+layout: post
+date: 2007-06-27 16:10:14 GMT
+title: "Link post"
+---
+<http://www.despair.com/viewall.html>
+

@@ -1,0 +1,9 @@
+---
+layout: post
+date: 2008-06-09 01:37:05 GMT
+title: "Link post"
+---
+<http://www.eightfivethree.com/2008/06/08/crusher-the-wizard/>
+
+
+<p><img src="http://www.eightfivethree.com/wp-content/uploads/2008/06/expectopatronum128574458768992557.jpg" border="0" height="375" width="500" alt="expectopatronum128574458768992557.jpg" align=""></p>

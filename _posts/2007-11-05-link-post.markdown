@@ -1,0 +1,7 @@
+---
+layout: post
+date: 2007-11-05 04:33:40 GMT
+title: "Link post"
+---
+<http://www.procata.com/blog/archives/2007/10/28/working-with-php-5-in-mac-os-x-105/>
+

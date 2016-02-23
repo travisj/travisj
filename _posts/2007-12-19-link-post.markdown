@@ -1,0 +1,11 @@
+---
+layout: post
+date: 2007-12-19 11:35:34 GMT
+title: "Link post"
+---
+<http://www.eightfivethree.com/2007/12/18/wyclef-for-president/>
+
+
+<p>Wyclef was recently on MHD with his <a href="http://music.yahoo.com/promo-31904706-222-20071204-" title="Yahoo! Music">Yahoo! Music/Live Sets performance</a> and it was a great show. I really like the format of the Live Sets, but most importantly I like the artists they bring on (except <a href="http://music.yahoo.com/promo-31904706-222-20071001-" title="Yahoo! Music">Rascal Flatts</a> - I won’t be DVR’ing that one). I feel a lot like Hansel describing his respect for Sting when I talk about Wyclef, but I do like his music and have especially been liking <em>If I Was President</em> lately.</p> <p><object width="428" height="480"><param name="movie" value="http://cosmos.bcst.yahoo.com/up/embed/embedflv/swf/fop_embed.swf?id=v51592502&amp;eID=1301797&amp;pm=0">
+<param name="wmode" value="transparent">
+<embed src="http://cosmos.bcst.yahoo.com/up/embed/embedflv/swf/fop_embed.swf?id=v51592502&amp;eID=1301797&amp;pm=0" type="application/x-shockwave-flash" wmode="transparent" width="428" height="480"></object></p> <p>And for those of you that don’t get the Hansel/Sting...</p>

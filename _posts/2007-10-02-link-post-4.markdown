@@ -1,0 +1,7 @@
+---
+layout: post
+date: 2007-10-02 06:36:53 GMT
+title: "Link post"
+---
+<http://www.menshealth.com/cda/article.do?site=MensHealth&channel=fitness&category=workout.plans&conitem=8cd3645e8bfe4110VgnVCM20000012281eac____>
+

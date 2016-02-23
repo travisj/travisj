@@ -1,0 +1,7 @@
+---
+layout: post
+date: 2007-10-02 20:49:00 GMT
+title: "Link post"
+---
+<http://www.widgetbucks.com/home.page>
+

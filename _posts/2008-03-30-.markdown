@@ -1,0 +1,6 @@
+---
+layout: post
+date: 2008-03-30 21:59:59 GMT
+title: ""
+---
+just installed wphone, the wordpress plugin for the iphone. very cool. http://wphoneplugin.org/

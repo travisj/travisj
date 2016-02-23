@@ -1,0 +1,8 @@
+---
+layout: post
+date: 2011-04-24 00:14:48 GMT
+title: "Link post"
+---
+<http://soundcloud.com/wait-what/sets/the-notorious-xx>
+
+<p>not a new mashup, but a good one.</p> 

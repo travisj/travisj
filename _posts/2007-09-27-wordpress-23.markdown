@@ -1,0 +1,7 @@
+---
+layout: post
+date: 2007-09-27 22:05:57 GMT
+title: "Wordpress 2.3"
+---
+<p><a href="http://wordpress.org/" title="WordPress › Blog Tool and Weblog Platform">Wordpress</a> 2.3 was recently released and I happened to see the announcement just a couple hours after the release. <a href="http://www.eightfivethree.com/2007/02/19/installing-wordpress-and-keeping-it-up-to-date/" title="travis johnson">I quickly upgraded</a> and am enjoying the new version quite a bit. Most of my enjoyment is coming from playing with <a href="http://www.eightfivethree.com/2007/09/23/new-theme/" title="travis johnson">my new theme</a>. Having a theme with two widget enabled columns is just great (for pretty obvious reasons).</p><p>The big new feature with 2.3 is the official inclusion of Tags. I’m still trying to figure out how I want to tag something versus how I want to categorize it and as you can see from this post I chose the same for both.</p><p>I plan on working on my current theme a little bit more then releasing it for anyone else to use if wanted. It’s a really basic theme, but it works for me.</p><p>
+ (via <a href="http://www.eightfivethree.com/2007/09/27/wordpress-23/">travis johnson</a>)</p>

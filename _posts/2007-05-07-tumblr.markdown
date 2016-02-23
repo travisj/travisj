@@ -1,0 +1,6 @@
+---
+layout: post
+date: 2007-05-07 15:22:31 GMT
+title: "Tumblr"
+---
+I started playing around with Tumblr yesterday and think it is a pretty cool idea. I really like that I can aggregate different services to all be displayed in one place. I’ve got this blog, twitter, del.icio.us and flickr all automatically importing to one place. I’m not hooked on it to the point where I [...] (via <a href="http://www.eightfivethree.com/2007/05/07/tumblr/">eightfivethree</a>)

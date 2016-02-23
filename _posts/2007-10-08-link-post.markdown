@@ -1,0 +1,7 @@
+---
+layout: post
+date: 2007-10-08 18:02:32 GMT
+title: "Link post"
+---
+<http://www.nypost.com/seven/10072007/business/nbc_slept_on_videos_digital_ri.htm>
+

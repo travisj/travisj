@@ -1,0 +1,15 @@
+---
+layout: post
+date: 2008-06-01 18:34:14 GMT
+title: "Link post"
+---
+<http://www.eightfivethree.com/2008/06/01/crusher-on-flickr/>
+
+
+<p>
+<a href="http://www.rljart.com/blog/" title="rachel">Rachel</a> put together a <a href="http://www.flickr.com/photos/rlj/2539938589/" title="crusher08 on Flickr - Photo Sharing!">video complication</a> of a few camera videos we’ve taken of Crusher over the past few weeks.
+</p> <p><object type="application/x-shockwave-flash" width="400" height="300" data="http://www.flickr.com/apps/video/stewart.swf?v=49235" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"> <param name="flashvars" value="intl_lang=en-us&amp;photo_secret=c539330681&amp;photo_id=2539938589&amp;show_info_box=true">
+<param name="movie" value="http://www.flickr.com/apps/video/stewart.swf?v=49235">
+<param name="bgcolor" value="#000000">
+<param name="allowFullScreen" value="true">
+<embed type="application/x-shockwave-flash" src="http://www.flickr.com/apps/video/stewart.swf?v=49235" bgcolor="#000000" allowfullscreen="true" flashvars="intl_lang=en-us&amp;photo_secret=c539330681&amp;photo_id=2539938589&amp;flickr_show_info_box=true" height="300" width="400"></embed></object></p>

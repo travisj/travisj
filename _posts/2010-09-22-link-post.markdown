@@ -1,0 +1,8 @@
+---
+layout: post
+date: 2010-09-22 03:32:07 GMT
+title: "Link post"
+---
+<http://www.brownstoner.com/brownstoner/archives/2010/09/no_chipolte_for.php>
+
+<p>Excitement and disappointment all in the same post!</p> 

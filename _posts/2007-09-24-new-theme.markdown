@@ -1,0 +1,11 @@
+---
+layout: post
+date: 2007-09-24 04:09:16 GMT
+title: "New Theme"
+---
+<p>I created my first and second real Wordpress themes this weekend. I started yesterday making one for <a href="http://rljart.com/blog/" title="rachel">Rachel</a> and since it was pretty easy I decided to make a similar one for myself.</p>
+
+<p>Rachel decided she wanted a three column layout, so I figured I would tryout <a href="http://developer.yahoo.com/yui/grids/" title="Yahoo! UI Library: Grids CSS">YUI Grids</a> for this project. Using the Grids CSS made laying out the site pretty easy. I ran into a little trouble wanting to have the middle column appear first in the DOM, but a little CSS inline hacking fixed the issue pretty easily.</p>
+
+<p>After success with Rachel’s site I decided to create a new theme for my site. I, too, now have a three column layout which gives me some space in the last column for some <a href="https://direct.rightmedia.com/">DMX</a> ads and various widgets. My theme was built for <a href="http://automattic.com/code/widgets/" title="WordPress Widgets « Automattic">Wordpress Widgets</a> which allows for easy customization. I’m going to add a little more to the theme, then I’ll make it available for download in case anyone wants to try it out.</p>
+ (via <a href="http://www.eightfivethree.com/2007/09/23/new-theme/">travis johnson</a>)

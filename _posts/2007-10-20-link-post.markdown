@@ -1,0 +1,7 @@
+---
+layout: post
+date: 2007-10-20 02:50:06 GMT
+title: "Link post"
+---
+<http://colbert08.org/>
+

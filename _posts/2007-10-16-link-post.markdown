@@ -1,0 +1,7 @@
+---
+layout: post
+date: 2007-10-16 16:05:54 GMT
+title: "Link post"
+---
+<http://www.apple.com/macosx/features/300.html>
+

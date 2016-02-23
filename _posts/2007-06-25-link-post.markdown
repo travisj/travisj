@@ -1,0 +1,7 @@
+---
+layout: post
+date: 2007-06-25 19:41:07 GMT
+title: "Link post"
+---
+<http://www.mozilla.org/rhino/>
+

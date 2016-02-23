@@ -1,0 +1,8 @@
+---
+layout: post
+date: 2009-04-02 16:16:39 GMT
+title: "Photo post"
+---
+{% img /images/780b90ce306d01e219f67812f9f711ef87f164918bb5b5dd3e894f15e4c9ecc4.jpg %}
+
+<b>The cousins.</b>

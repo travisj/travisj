@@ -1,0 +1,8 @@
+---
+layout: post
+date: 2008-11-15 05:30:00 GMT
+title: "Photo post"
+---
+{% img /images/963340e5ae5e33088fe7217cace30875a24a8256a9a6f44e8c41eb31db6f15ea.gif %}
+
+I received this email conversation as part of a forward. I have a strict "no forward" policy, but feel this needs to be shared. So enjoy. 

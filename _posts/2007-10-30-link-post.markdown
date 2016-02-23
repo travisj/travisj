@@ -1,0 +1,7 @@
+---
+layout: post
+date: 2007-10-30 19:49:12 GMT
+title: "Link post"
+---
+<http://gizmodo.com/gadgets/review/eye+fi-adds-wi+fi-to-almost-any-digital-camera-316537.php>
+

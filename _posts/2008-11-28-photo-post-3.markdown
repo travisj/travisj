@@ -1,0 +1,8 @@
+---
+layout: post
+date: 2008-11-28 03:29:05 GMT
+title: "Photo post"
+---
+{% img /images/e825285627b25c192bf8d1bdb6af6b043e1481cfdbc7d61cf73b0ca6dedcd675.jpg %}
+
+Dinner was a sweet success thanks to my wife.

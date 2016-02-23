@@ -1,0 +1,7 @@
+---
+layout: post
+date: 2007-09-26 20:44:09 GMT
+title: "Link post"
+---
+<http://icanhascheezburger.com/2007/09/26/the-boss-wunts-2-c-u/>
+

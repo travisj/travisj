@@ -1,0 +1,12 @@
+---
+layout: post
+date: 2007-12-06 08:07:55 GMT
+title: "Link post"
+---
+<http://www.eightfivethree.com/2007/12/05/firebug-and-gmail/>
+
+
+<p>I logged in to Gmail this evening (to check if my brother in law thought to let me know when to pick him up from the airport) and saw a red notice at the top of the page saying that <a href="http://getfirebug.com/" title="Firebug - Web Development Evolved">Firebug</a> could slow down the user experience with a link to more info. I followed the link just to see <a href="http://mail.google.com/support/bin/answer.py?hl=en&amp;ctx=mail&amp;answer=77355">what they had to say</a> and found the first step in deactivating firebug pretty funny:</p> <ol>
+<li>Click the green or red icon in the bottom right corner of the browser window to open Firebug.</li>
+</ol>
+<p>I won’t go in to much...</p>

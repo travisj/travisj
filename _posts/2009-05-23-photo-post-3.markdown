@@ -1,0 +1,8 @@
+---
+layout: post
+date: 2009-05-23 14:32:01 GMT
+title: "Photo post"
+---
+{% img /images/21dfbb1d8b3359c51d378befad093c28d09168aa8421a4cb3666c4c81ff8803a.jpg %}
+
+<b>Resting after a long walk to the park.</b>

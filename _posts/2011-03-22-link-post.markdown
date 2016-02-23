@@ -1,0 +1,9 @@
+---
+layout: post
+date: 2011-03-22 00:35:32 GMT
+title: "Link post"
+---
+<http://countingcrows.com/allmybloodyvalentines/>
+
+<p>interesting project by adam duritz of counting crows. he learned and performed each song in one day (or night rather).</p>&#13;
+<p>at the very least, give 'o my sweet carolina' a listen - it's one of my very favorite of ryan adams' songs.</p> 

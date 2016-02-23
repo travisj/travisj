@@ -1,0 +1,9 @@
+---
+layout: post
+date: 2008-08-20 06:03:08 GMT
+title: "Link post"
+---
+<http://www.eightfivethree.com/2008/08/19/wordpress-plugin-for-buzz/>
+
+
+<p>When <a href="http://buzz.yahoo.com">Buzz</a> opened to all publishers last night I decided to quickly throw together a Wordpress plugin to easily put Buzz badges on my blog. I quickly threw something together and put up <a href="http://twitter.com/travisj/statuses/891885119">a quick...</a></p>

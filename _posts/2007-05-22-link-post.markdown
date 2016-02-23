@@ -1,0 +1,7 @@
+---
+layout: post
+date: 2007-05-22 20:27:06 GMT
+title: "Link post"
+---
+<http://blog.leetsoft.com/2007/5/22/the-secret-to-memcached>
+

@@ -1,0 +1,6 @@
+---
+layout: post
+date: 2008-07-15 16:48:37 GMT
+title: ""
+---
+Turned off 3g on the new phone. Let's see how much that helps battery life.

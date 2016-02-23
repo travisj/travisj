@@ -1,0 +1,8 @@
+---
+layout: post
+date: 2009-05-23 14:32:08 GMT
+title: "Photo post"
+---
+{% img /images/9fc80a0d49d3324d2cf083ab3e9c7ab2f7ed744861c2052d0e406a4b3025ec6c.jpg %}
+
+<b>Saturday morning at the Brooklyn green market.</b>

@@ -1,0 +1,9 @@
+---
+layout: post
+date: 2008-04-12 06:39:46 GMT
+title: "Link post"
+---
+<http://www.eightfivethree.com/2008/04/11/my-first-appengine-app/>
+
+
+<p>I had to give <a href="http://code.google.com/appengine/" title="Google App Engine - Google Code">Google’s new App Engine</a> a try, so I quickly <a href="http://thebet.mechroboticon.com/" title="The Bet">re-built my dad’s The Bet site</a>. The one page-site was built in Python, because that’s what you have to build all apps in and only took...</p>

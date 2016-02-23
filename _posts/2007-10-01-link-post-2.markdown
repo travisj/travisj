@@ -1,0 +1,7 @@
+---
+layout: post
+date: 2007-10-01 20:50:53 GMT
+title: "Link post"
+---
+<http://www.proximic.com/>
+

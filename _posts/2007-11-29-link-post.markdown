@@ -1,0 +1,10 @@
+---
+layout: post
+date: 2007-11-29 19:05:10 GMT
+title: "Link post"
+---
+<http://www.eightfivethree.com/2007/11/29/more-time-with-hulu/>
+
+
+<p>I’ve spent a little more time with Hulu and find that I don’t like the interface. It’s tough to find videos that you want to watch. The search feature isn’t very good it’s a hard site to navigate. I did, however, find my very favorite Arrested Development clip of all time. There too much going on to explain why it is funny, so I won’t even try, but here you go:</p> <p><object width="490" height="278"><param name="movie" value="http://www.hulu.com/embed/BujnyDsZvCaLGE8WbrE5EFF6_yap0YJt">
+<embed src="http://www.hulu.com/embed/BujnyDsZvCaLGE8WbrE5EFF6_yap0YJt" type="application/x-shockwave-flash" width="490" height="278"></object></p> <p>For those of you heavily interested in Rachel trivia: The AD quote most often quoted by Rachel is in the clip. Do you...</p>

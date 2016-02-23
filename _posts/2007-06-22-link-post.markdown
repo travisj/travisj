@@ -1,0 +1,7 @@
+---
+layout: post
+date: 2007-06-22 18:39:59 GMT
+title: "Link post"
+---
+<http://immike.net/blog/2007/06/21/extreme-regex-foo-what-you-need-to-know-to-become-a-regular-expression-pro/>
+

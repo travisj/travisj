@@ -1,0 +1,7 @@
+---
+layout: post
+date: 2007-05-17 00:01:04 GMT
+title: "Link post"
+---
+<http://www.nytimes.com/2007/05/16/business/smallbusiness/16behave.html?_r=1&ref=smallbusiness&oref=slogin>
+

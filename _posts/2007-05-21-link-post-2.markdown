@@ -1,0 +1,7 @@
+---
+layout: post
+date: 2007-05-21 07:13:33 GMT
+title: "Link post"
+---
+<http://biz.yahoo.com/weekend/millionretire_1.html>
+

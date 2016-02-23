@@ -1,0 +1,7 @@
+---
+layout: post
+date: 2007-10-11 18:32:34 GMT
+title: "Link post"
+---
+<http://www.businessweek.com/smallbiz/content/oct2007/sb2007108_307252.htm?chan=smallbiz_smallbiz+index+page_top+stories>
+

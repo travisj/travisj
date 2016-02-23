@@ -1,0 +1,7 @@
+---
+layout: post
+date: 2007-11-24 22:44:54 GMT
+title: "Link post"
+---
+<http://browsershots.org/>
+

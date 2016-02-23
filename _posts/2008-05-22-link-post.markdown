@@ -1,0 +1,10 @@
+---
+layout: post
+date: 2008-05-22 21:36:42 GMT
+title: "Link post"
+---
+<http://www.eightfivethree.com/2008/05/22/the-ems-this-summer/>
+
+
+<p>
+A few friends from the office went in together and got a 10 game mini pack of tickets local Single-A ball club here in Eugene, [The Emeralds](http://eugene.emeralds.milb.com/index.jsp?sid=t461)....</p>

@@ -1,0 +1,8 @@
+---
+layout: post
+date: 2008-05-18 17:37:47 GMT
+title: "Photo post"
+---
+{% img /images/70b806e81860cb5a1b9848b150b91057541909e7d9b6183c2f575fbf9da6ecea.jpg %}
+
+<b>Sleeping</b>

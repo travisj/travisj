@@ -1,0 +1,8 @@
+---
+layout: post
+date: 2009-03-28 15:50:32 GMT
+title: "Photo post"
+---
+{% img /images/e476bb04e3996c912f182857ce183116af3c0155d018562f7e2fab219304bb33.jpg %}
+
+<b>Rachel is amazed by the size of trashcans here in Kingman AZ</b>

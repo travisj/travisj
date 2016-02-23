@@ -1,0 +1,8 @@
+---
+layout: post
+date: 2009-03-27 16:43:03 GMT
+title: "Photo post"
+---
+{% img /images/516748f4f5b56bb9a6515da00756836628fc358d548b6d5d21f4e744eda8b1e4.jpg %}
+
+<b>Snow-capped mountain view from our room in redding, ca</b>

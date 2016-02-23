@@ -1,0 +1,8 @@
+---
+layout: post
+date: 2009-07-05 15:21:30 GMT
+title: "Photo post"
+---
+{% img /images/045742d5db533f0ed72036206203e874f183128decc2e8e0e5a43e7d044f108b.jpg %}
+
+<b>We hit up magnolias after the fireworks. So tasty.</b>

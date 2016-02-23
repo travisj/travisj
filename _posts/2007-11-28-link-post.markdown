@@ -1,0 +1,11 @@
+---
+layout: post
+date: 2007-11-28 16:03:47 GMT
+title: "Link post"
+---
+<http://www.eightfivethree.com/2007/11/28/hulu-first-impressions/>
+
+
+<p>I got home from work tonight to find that I had received my beta invite to Hulu. Of course the first thing I did was signup and watch Arrested Development clips. The site is pretty easy to navigate, but I wish it was a little easier to search for clips. I was still able to find one of the funniest AD clips ever, though.</p>
+<p><object width="490" height="278"><param name="movie" value="http://www.hulu.com/embed/Bdg9gaQaR9RYNslpesWtlnJWcRqOHKMf">
+<embed src="http://www.hulu.com/embed/Bdg9gaQaR9RYNslpesWtlnJWcRqOHKMf" type="application/x-shockwave-flash" width="490" height="278"></embed></object></p>

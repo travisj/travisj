@@ -1,0 +1,6 @@
+---
+layout: post
+date: 2008-06-02 15:06:57 GMT
+title: ""
+---
+spent a the weekend working on swap-bot. moving to a bigger server. same design, but a new layout. also planned some new features.

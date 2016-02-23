@@ -1,0 +1,8 @@
+---
+layout: post
+date: 2008-11-27 20:56:41 GMT
+title: "Photo post"
+---
+{% img /images/dc43e535d10aeec496bb26e01ae1dc2fbd02fea3e5f964825a0d498531d89c4c.jpg %}
+
+Making gingerbread cookies.

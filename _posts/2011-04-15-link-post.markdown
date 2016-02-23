@@ -1,0 +1,8 @@
+---
+layout: post
+date: 2011-04-15 22:56:01 GMT
+title: "Link post"
+---
+<http://www.quora.com/New-York-City-Subway-1/If-an-uptown-F-and-A-train-depart-Jay-St-Borough-Hall-at-the-same-time-which-one-will-get-to-West-4th-first>
+
+<p>Additionally, the F train has a plethora of foxy F-Train ladies whereas the A-Train has the opposite of a plethora.</p> 

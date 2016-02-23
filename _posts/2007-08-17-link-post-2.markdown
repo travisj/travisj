@@ -1,0 +1,7 @@
+---
+layout: post
+date: 2007-08-17 17:45:15 GMT
+title: "Link post"
+---
+<http://www.offtheisland.com/index.php/kids-say-the-darndest-things/>
+

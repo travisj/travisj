@@ -1,0 +1,7 @@
+---
+layout: post
+date: 2007-10-20 01:05:07 GMT
+title: "Ryan Adams in HD"
+---
+<p><img src="http://www.eightfivethree.com/wp-content/uploads/2007/10/mainimage-ryan-adams-rev.jpg" alt="Mainimage Ryan Adams rev" title="" /></p><p>Yesterday Cam told me that <a href="http://ryan-adams.com/RyanAdams.html" title="Ryan Adams :: Home">Ryan Adams and the Cardinals</a> were <a href="http://music.yahoo.com/promo-31904706-222-20070904-" title="Yahoo! Music">playing a live concert</a> on <a href="http://www.mhd.tv/" title="MHD">MHD</a>. I quickly set the DVR and got home from work today with the <a href="http://music.yahoo.com/promo-31904706-208-20061120-" title="Yahoo! Music">Yahoo! Music/Nissan Live Music Set</a> ready to go. It was only half an hour, but it was awesome. Seeing Ryan Adams play in HD is the only way to go. If you have MHD, you definitely need to check this set out (it’s on all the time).</p><p>In other Ryan Adams news, he’s got another <a href="http://amazon.com/dp/B000VZC4DK" title="Amazon.com: Follow The Lights: Music: Ryan Adams &amp; the Cardinals">album coming out next week</a> (believe it or not!).</p><p>
+ (via <a href="http://www.eightfivethree.com/2007/10/19/ryan-adams-in-hd/">travis johnson</a>)</p>

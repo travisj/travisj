@@ -1,0 +1,7 @@
+---
+layout: post
+date: 2007-10-07 01:43:01 GMT
+title: "Link post"
+---
+<http://www.jungledisk.com/>
+

@@ -1,0 +1,7 @@
+---
+layout: post
+date: 2007-11-23 21:36:24 GMT
+title: "Link post"
+---
+<http://next.yahoo.net/archives/4/on-learning-new-programming-languages>
+

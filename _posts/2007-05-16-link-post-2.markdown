@@ -1,0 +1,7 @@
+---
+layout: post
+date: 2007-05-16 00:07:04 GMT
+title: "Link post"
+---
+<http://www-128.ibm.com/developerworks/library/os-php-v525/index.html?ca=drs-&ca=dkw-php>
+

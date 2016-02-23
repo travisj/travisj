@@ -1,0 +1,6 @@
+---
+layout: post
+date: 2008-04-13 04:46:02 GMT
+title: ""
+---
+I've tried the wphone plugin for wordpress a little more and it still has a few issues. Very cool UI though.

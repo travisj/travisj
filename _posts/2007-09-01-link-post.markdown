@@ -1,0 +1,7 @@
+---
+layout: post
+date: 2007-09-01 05:43:26 GMT
+title: "Link post"
+---
+<http://fuelfriends.blogspot.com/2007/08/jeff-tweedy-swings-by-your-living-room.html>
+

@@ -1,0 +1,7 @@
+---
+layout: post
+date: 2007-10-26 15:18:39 GMT
+title: "Link post"
+---
+<http://www.siliconvalleywatcher.com/mt/archives/2007/10/is_goog_shaftin.php>
+

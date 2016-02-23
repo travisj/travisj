@@ -1,0 +1,8 @@
+---
+layout: post
+date: 2009-11-28 15:16:12 GMT
+title: "Photo post"
+---
+{% img /images/3e34f518a818cc9849bc8d83c828c3bcfdb6fe79aab53548072b31145f873f68.jpg %}
+
+<b>Morning waffles. Showing Seth the finer points of life in park slope.</b>

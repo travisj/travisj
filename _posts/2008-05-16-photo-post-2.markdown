@@ -1,0 +1,8 @@
+---
+layout: post
+date: 2008-05-16 02:13:10 GMT
+title: "Photo post"
+---
+{% img /images/5f0244cb56a3fd3245403026a73e109aa36c93812fb2cdc9133b904259363f09.jpg %}
+
+<b>First walk</b>

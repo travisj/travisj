@@ -1,0 +1,7 @@
+---
+layout: post
+date: 2007-05-16 15:34:43 GMT
+title: "Link post"
+---
+<http://www.gwarm.com/softball/>
+

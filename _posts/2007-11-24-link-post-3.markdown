@@ -1,0 +1,10 @@
+---
+layout: post
+date: 2007-11-24 02:07:24 GMT
+title: "Link post"
+---
+<http://www.eightfivethree.com/2007/11/23/we-got-a-christmas-tree/>
+
+
+<p><img src="http://www.eightfivethree.com/wp-content/uploads/2007/11/christmas-tree.jpg" alt="Christmas Tree" title=""></p>
+<p>Rachel and I picked up our Christmas tree today and spent the evening decorating it. Now we just need to fill it up with gifts!</p>

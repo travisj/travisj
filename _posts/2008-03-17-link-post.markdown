@@ -1,0 +1,10 @@
+---
+layout: post
+date: 2008-03-17 00:15:55 GMT
+title: "Link post"
+---
+<http://www.eightfivethree.com/2008/03/16/the-2008-eightfivethree-classic/>
+
+
+<p>The Classic is back! To sign up for this year’s Eightfivethree Classic follow <a href="http://tournament.fantasysports.yahoo.com/t1/register/joinprivategroup_assign_team?GID=81124&amp;P=eugene">this link</a>.</p> <p>The Group ID is: 81124<br>
+And the password: eugene</p> <p>Everyone is eligible to join and anyone who has been a...</p>

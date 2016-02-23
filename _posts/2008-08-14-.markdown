@@ -1,0 +1,6 @@
+---
+layout: post
+date: 2008-08-14 06:15:26 GMT
+title: ""
+---
+new yui 3.0 preview looks pretty sweet. http://bit.ly/3R0ByU

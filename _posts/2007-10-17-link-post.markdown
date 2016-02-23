@@ -1,0 +1,7 @@
+---
+layout: post
+date: 2007-10-17 20:03:33 GMT
+title: "Link post"
+---
+<http://iht.com/articles/2007/10/16/business/bubble.php>
+

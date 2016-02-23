@@ -1,0 +1,7 @@
+---
+layout: post
+date: 2007-10-02 04:44:28 GMT
+title: "Link post"
+---
+<http://mlb.mlb.com/mlb/schedule/ps_07.jsp>
+

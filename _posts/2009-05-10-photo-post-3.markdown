@@ -1,0 +1,8 @@
+---
+layout: post
+date: 2009-05-10 13:09:29 GMT
+title: "Photo post"
+---
+{% img /images/9799aef383b7e8e0a54c91e7493bd5bea0e36185a7f2a118b9c2b3d2b5dbfda5.jpg %}
+
+<b>To the defenders of the union 1865.</b>

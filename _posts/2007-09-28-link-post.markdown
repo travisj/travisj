@@ -1,0 +1,7 @@
+---
+layout: post
+date: 2007-09-28 19:17:04 GMT
+title: "Link post"
+---
+<http://finance.yahoo.com/career-work/article/103599/Eating-Well-on-the-Fly>
+

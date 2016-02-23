@@ -1,0 +1,8 @@
+---
+layout: post
+date: 2009-04-02 16:16:42 GMT
+title: "Photo post"
+---
+{% img /images/5a867e72f3dfaa3a4ae37f11ca73f0f803702c056250a8aac2832dfd08090af5.jpg %}
+
+<b>Crusher is practicing searching for Easter eggs.</b>

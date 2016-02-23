@@ -1,0 +1,7 @@
+---
+layout: post
+date: 2007-11-26 17:02:49 GMT
+title: "Link post"
+---
+<http://weblog.mediatemple.net/weblog/category/system-incidents/web-latency-and-smtp-connectivity-on-gs-gridcluster1/>
+

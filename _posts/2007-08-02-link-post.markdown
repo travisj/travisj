@@ -1,0 +1,7 @@
+---
+layout: post
+date: 2007-08-02 05:49:44 GMT
+title: "Link post"
+---
+<http://highscalability.com/youtube-architecture>
+

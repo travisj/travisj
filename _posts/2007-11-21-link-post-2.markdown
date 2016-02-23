@@ -1,0 +1,8 @@
+---
+layout: post
+date: 2007-11-21 03:28:53 GMT
+title: "Link post"
+---
+<http://www.eightfivethree.com/2007/11/20/the-hype-machine/>
+
+<p>A few weeks ago I wrote about Pandora and how it was great for listening music. I have since come across a site I like even more. It’s called <a href="http://hypem.com/" title="Today's Blog Music / The Hype Machine - discover, listen and buy music discussed on the best mp3 blogs">The Hype Machine</a>. The Hype Machine aggregates posts from music blogs and makes the music available with search. For instance, searching for Ryan Adams right now returned <a href="http://hypem.com/track/425546" title="Ryan Adams - Summer of '69 / The Hype Machine">his rendition of Summer of ‘69</a> (I would just like to point out that Ryan Adams is covering a song by Brian Adams). Besides providing a great service, The Hype Machine has a pretty...</p>

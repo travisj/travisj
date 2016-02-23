@@ -1,0 +1,7 @@
+---
+layout: post
+date: 2007-08-24 14:48:34 GMT
+title: "Link post"
+---
+<http://www.joehewitt.com/iui/>
+

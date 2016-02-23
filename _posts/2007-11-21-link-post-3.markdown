@@ -1,0 +1,7 @@
+---
+layout: post
+date: 2007-11-21 04:41:46 GMT
+title: "Link post"
+---
+<http://www.adsafe.org/>
+

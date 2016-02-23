@@ -1,0 +1,8 @@
+---
+layout: post
+date: 2009-06-21 13:44:10 GMT
+title: "Photo post"
+---
+{% img /images/a78fa4cc9d3b73b6f632bd3d091a2695da4cdf6db1fb6e805faae351de7781a7.jpg %}
+
+<b>Running full speed at the park.</b>

@@ -1,0 +1,7 @@
+---
+layout: post
+date: 2007-08-27 23:17:21 GMT
+title: "Test post"
+---
+<p>just testing something new i’m working on. stay tuned <img src="http://www.eightfivethree.com/wp-includes/images/smilies/icon_smile.gif" alt=":)" /></p><p>
+ (via <a href="http://www.eightfivethree.com/2007/08/27/test-post/">eightfivethree</a>)</p>

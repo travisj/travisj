@@ -1,0 +1,7 @@
+---
+layout: post
+date: 2007-08-17 22:13:25 GMT
+title: "Link post"
+---
+<http://www.nme.com/news/ryan-adams/30401>
+

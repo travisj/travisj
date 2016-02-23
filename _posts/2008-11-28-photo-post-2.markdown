@@ -1,0 +1,8 @@
+---
+layout: post
+date: 2008-11-28 05:14:38 GMT
+title: "Photo post"
+---
+{% img /images/4cafd68d3a43f684e4b4aec69b148869644d56910837d324232c070b1e444b44.jpg %}
+
+Crusher posing by Rachel's computer as she uploads thanksgiving photos to Flickr.

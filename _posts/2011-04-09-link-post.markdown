@@ -1,0 +1,8 @@
+---
+layout: post
+date: 2011-04-09 17:06:30 GMT
+title: "Link post"
+---
+<http://www.recordstoreday.com/SpecialReleases>
+
+<p>I started making my list for next week's Record Store Day. I plan on calling a few places this week to make sure they will have everything in stock I am hoping for.</p> 

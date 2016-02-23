@@ -1,0 +1,8 @@
+---
+layout: post
+date: 2008-04-19 22:53:11 GMT
+title: "Photo post"
+---
+{% img /images/40c26cdcbd7187b8c6018ba8c1cb1dd3fc425d057e49bb0d97a205c36c76df50.jpg %}
+
+<b>My beautiful wife</b>

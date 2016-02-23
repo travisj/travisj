@@ -1,0 +1,8 @@
+---
+layout: post
+date: 2008-06-27 02:09:58 GMT
+title: "Photo post"
+---
+{% img /images/410ef3751303fcd655fc64fd2ec9b445e9822832c4899936630440b4526fbb7c.jpg %}
+
+<b>At the ballgame. View from our seats.</b>

@@ -1,0 +1,8 @@
+---
+layout: post
+date: 2008-12-22 22:09:06 GMT
+title: "Photo post"
+---
+{% img /images/3ef8e2e02fd53d8d48ba69bd85416ff54ccea39a88adcd0e15ab0d6bf936ba3b.jpg %}
+
+My Santa on skis. This is the only ornament I hang on my parents' Christmas tree.

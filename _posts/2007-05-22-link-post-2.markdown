@@ -1,0 +1,7 @@
+---
+layout: post
+date: 2007-05-22 20:27:06 GMT
+title: "Link post"
+---
+<http://shiflett.org/blog/2007/may/terry-chay-on-rails>
+

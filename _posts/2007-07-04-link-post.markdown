@@ -1,0 +1,7 @@
+---
+layout: post
+date: 2007-07-04 04:04:05 GMT
+title: "Link post"
+---
+<http://www.informationweek.com/story/showArticle.jhtml?articleID=200900018&cid=RSSfeed_IWK_News>
+

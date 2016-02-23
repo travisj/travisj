@@ -1,0 +1,7 @@
+---
+layout: post
+date: 2007-11-09 06:55:17 GMT
+title: "Link post"
+---
+<http://developer.yahoo.net/blogs/theater/>
+

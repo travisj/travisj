@@ -1,0 +1,9 @@
+---
+layout: post
+date: 2007-12-20 10:50:44 GMT
+title: "Link post"
+---
+<http://www.eightfivethree.com/2007/12/19/yahooright-media-holiday-party/>
+
+
+<p><img src="http://www.eightfivethree.com/wp-content/uploads/2007/12/img-3611.jpg" alt="Img 3611" title=""></p> <p>Tonight was the 3rd Annual Right Media Eugene Holiday Party (1st Annual as <a href="http://www.yahoo.com/" title="Yahoo!">Yahoo!</a>) and it was a blast. A few from the office worked hard to organize a casino night and most of the office showed up for the party.</p> <p>Above is a picture of the team that built <a href="https://direct.rightmedia.com/">DMX</a> and is now building… (Did you really think I was going to let it out that easily, Valleywag?)</p> <p>I feel so fortunate to be a part of the best web development team on the planet (note: this title is self-proclaimed, but if there...</p>

@@ -1,0 +1,9 @@
+---
+layout: post
+date: 2008-03-30 21:31:47 GMT
+title: "Link post"
+---
+<http://www.eightfivethree.com/2008/03/30/uploading-bug-in-wp-25/>
+
+
+<p>I upgraded Rachel’s blog to Wordpress 2.5 this morning and she immediately began running into trouble uploading files through the new interface. I quickly searched and <a href="http://wordpress.org/support/topic/162198#post-713957" title="WordPress › Support » 2.5 image upload">found this solution</a>. I...</p>

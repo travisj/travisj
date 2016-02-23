@@ -1,0 +1,8 @@
+---
+layout: post
+date: 2007-08-29 06:01:28 GMT
+title: "Photo post"
+---
+{% img /images/c2b7b1faf6e18a119bc0968707188b502c65543c2176072b8f1aee62ff9c3e17.jpg %}
+
+<b>IMG_2760.JPG</b> (via <a href="http://www.flickr.com/photos/travisjohnson/1263289463/">Photos from travisjohnson</a>)

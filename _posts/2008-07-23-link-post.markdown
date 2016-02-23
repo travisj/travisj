@@ -1,0 +1,9 @@
+---
+layout: post
+date: 2008-07-23 02:26:52 GMT
+title: "Link post"
+---
+<http://www.eightfivethree.com/2008/07/22/from-the-phone/>
+
+
+<p>I’ve been trying hard to figure out the right mix between posting here and on Twitter. Over the past few months I’ve clearly been giving preference to the latter. This morning I discovered the...</p>

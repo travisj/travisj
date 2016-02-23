@@ -1,0 +1,7 @@
+---
+layout: post
+date: 2007-10-02 21:02:23 GMT
+title: "Link post"
+---
+<http://www.jokeburner.com/>
+

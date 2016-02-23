@@ -1,0 +1,11 @@
+---
+layout: post
+date: 2007-12-08 05:28:03 GMT
+title: "Link post"
+---
+<http://www.eightfivethree.com/2007/12/07/it-means-business/>
+
+
+<p>Last nights episode of 30 Rock was great. Don’t take this as a fact, but I think they are out of new episodes due to the writers’ strike and if that’s the case, they sure ended on a good one.</p>
+<p><object width="490" height="278"><param name="movie" value="http://www.hulu.com/embed/W4NJHX3f5hY-ETiG5vCqoa5i4V-2MvQn">
+<embed src="http://www.hulu.com/embed/W4NJHX3f5hY-ETiG5vCqoa5i4V-2MvQn" type="application/x-shockwave-flash" width="490" height="278"></embed></object></p>

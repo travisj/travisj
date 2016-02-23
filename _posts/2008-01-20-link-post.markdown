@@ -1,0 +1,14 @@
+---
+layout: post
+date: 2008-01-20 12:56:50 GMT
+title: "Link post"
+---
+<http://www.eightfivethree.com/2008/01/20/yahoo-media-player-js-wordpress-plugin/>
+
+
+<p>I’ve been following more and more mp3 blogs lately and really been getting interested in having my own. There are three prominent online music services I use:</p> <ol>
+<li><a href="http://pandora.com/" title="Pandora Radio - Listen to Free Internet Radio, Find New Music">Pandora</a></li>
+<li><a href="http://hypem.com/" title="Today's Blog Music / The Hype Machine - discover, listen and buy music discussed on the best mp3 blogs">The Hype Machine</a></li>
+<li><a href="http://next.yahoo.net/archives/73/blogremix" title="next.yahoo  » Blog Archive   » Blog Remix">Blog Remix</a></li>
+</ol>
+<p>A combination of the three services would be perfect. I like Pandora because it discovers new music for me. I like The Hype Machine because I can find music given a band or song title. And I like Blog Remix because it is a really cool app. They all have their drawbacks too, which I won’t...</p>

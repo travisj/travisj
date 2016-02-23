@@ -1,0 +1,7 @@
+---
+layout: post
+date: 2007-11-30 19:49:24 GMT
+title: "Link post"
+---
+<http://health.yahoo.com/>
+

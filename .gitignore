@@ -1,0 +1,8 @@
+_site
+.sass-cache
+.jekyll-metadata
+_deploy.yml
+
+.DS_Store
+*.un~
+*.swp

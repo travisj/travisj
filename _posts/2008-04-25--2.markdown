@@ -1,0 +1,6 @@
+---
+layout: post
+date: 2008-04-25 16:05:26 GMT
+title: ""
+---
+finished my first twitter bot. to use 'follow thebet', give it 5 mins to follow you and if you want to know the score, 'd thebet score'

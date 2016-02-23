@@ -1,0 +1,7 @@
+---
+layout: post
+date: 2007-07-07 20:37:29 GMT
+title: "Can I Keep My Jersey"
+---
+<p>I finished <a href="http://www.amazon.com/Can-Keep-Jersey-Countries-Basketball/dp/034549136X/ref=pd_bbs_sr_1/104-9234536-8480751?ie=UTF8&amp;s=books&amp;qid=1183843587&amp;sr=8-1">Can I Keep My Jersey</a> this morning. The brief one sentence synopsis would go like this: Paul Shirley, one of the top 500 living basketball players, writes about his first three years after graduation spent trying to make it into the NBA. Paul is funny in a self-deprecating kind of way and definitely would keep any basketball fan entertained. He leaves out some of the juiciest stories for fear of having to play these guys again, but still tells some that could make for an uncomfortable time next time they meet on the court. Anyways, good read and thanks Libby for the book.</p><p>I also want to thank my dad and father-in-law for suggestions of what to read next. I chose neither of the options and instead went with <a href="http://www.amazon.com/Chuck-Klosterman-IV-Curious-Dangerous/dp/0743284895/ref=pd_bbs_sr_1/104-9234536-8480751?ie=UTF8&amp;s=books&amp;qid=1183844033&amp;sr=1-1">Chuck Klosterman’s IV</a>. Incidentally, Chuck wrote the introduction to Can I Keep My Jersey and I guess his name was on my mind. When I picked up the book today at the bookshop it seemed like a fun read.</p><p>
+ (via <a href="http://www.eightfivethree.com/2007/07/07/can-i-keep-my-jersey/">eightfivethree</a>)</p>

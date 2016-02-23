@@ -1,0 +1,7 @@
+---
+layout: post
+date: 2007-05-23 01:52:21 GMT
+title: "Link post"
+---
+<http://interconnected.org/home/2007/05/20/plain_text_wiki>
+

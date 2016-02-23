@@ -1,0 +1,8 @@
+---
+layout: post
+date: 2008-04-13 03:43:31 GMT
+title: "Photo post"
+---
+{% img /images/ab2eb1b13ed89841bf18016ff0268bd9f6c64ffcf6003418c48f181456065c4a.jpg %}
+
+<b>Such a nice night in Portland</b>

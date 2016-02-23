@@ -1,0 +1,8 @@
+---
+layout: post
+date: 2008-04-13 02:41:45 GMT
+title: "Photo post"
+---
+{% img /images/0fd9aa6aa51309694763314a46f22b74ad0e83505e6b5079d36ca2beb1960872.jpg %}
+
+<b>Rachel on an escalator</b>

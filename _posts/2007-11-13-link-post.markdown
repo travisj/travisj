@@ -1,0 +1,7 @@
+---
+layout: post
+date: 2007-11-13 23:51:20 GMT
+title: "Link post"
+---
+<http://joyent.com/developers/facebook>
+

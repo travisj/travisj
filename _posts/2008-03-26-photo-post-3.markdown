@@ -1,0 +1,8 @@
+---
+layout: post
+date: 2008-03-26 03:38:24 GMT
+title: "Photo post"
+---
+{% img /images/1d337b9fc93a8034798e2aa89b2e5bacbc1d93b89098c40ac424cd5fa9cd291f.jpg %}
+
+<b>photo.jpg</b>

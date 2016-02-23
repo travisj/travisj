@@ -1,0 +1,9 @@
+---
+layout: post
+date: 2007-12-01 22:59:36 GMT
+title: "Link post"
+---
+<http://www.eightfivethree.com/2007/12/01/civil-war/>
+
+
+<p><img src="http://www.eightfivethree.com/wp-content/uploads/2007/12/autzen-stadium.jpg" alt="Autzen Stadium" title=""></p> <p>I got to go to the Ducks vs. Beavers Civil War game this afternoon. This was my first game at Autzen and it definitely lived up to it’s reputation. The Ducks ended up losing in overtime, but the game was pretty exciting.</p>

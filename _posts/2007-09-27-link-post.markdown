@@ -1,0 +1,7 @@
+---
+layout: post
+date: 2007-09-27 20:11:06 GMT
+title: "Link post"
+---
+<http://finance.yahoo.com/career-work/article/103549/To-Hug-or-Not-to-Hug>
+

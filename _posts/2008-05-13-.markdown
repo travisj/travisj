@@ -1,0 +1,6 @@
+---
+layout: post
+date: 2008-05-13 18:33:36 GMT
+title: ""
+---
+i wish i had time to play with the yahoo internet location platform. http://developer.yahoo.com/geo/

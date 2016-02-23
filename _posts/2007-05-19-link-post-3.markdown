@@ -1,0 +1,7 @@
+---
+layout: post
+date: 2007-05-19 19:44:32 GMT
+title: "Link post"
+---
+<http://arstechnica.com/news.ars/post/20070519-the-psychology-of-banner-ads.html>
+

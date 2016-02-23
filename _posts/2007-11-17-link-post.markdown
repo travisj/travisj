@@ -1,0 +1,7 @@
+---
+layout: post
+date: 2007-11-17 20:49:50 GMT
+title: "Link post"
+---
+<http://www.jamphat.com/rap/>
+

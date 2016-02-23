@@ -1,0 +1,7 @@
+---
+layout: post
+date: 2007-10-01 21:32:35 GMT
+title: "Link post"
+---
+<http://www.maximussports.com/modules.php?name=League&file=index&op=team&tid=70&lid=4&sid=40&tview=1&whichsched=4>
+

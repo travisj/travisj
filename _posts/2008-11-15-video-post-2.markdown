@@ -1,0 +1,8 @@
+---
+layout: post
+date: 2008-11-15 05:19:45 GMT
+title: "Video post"
+---
+<object width="500" height="289"><param name="movie" value="http://www.hulu.com/embed/5yhj_Fingr7Ed7Uo9oMBVg/616/686"></param><embed src="http://www.hulu.com/embed/5yhj_Fingr7Ed7Uo9oMBVg/616/686" type="application/x-shockwave-flash"  width="500" height="289"></embed></object>
+
+This clip from last night's 30 Rock cracked me up. The whole episode was great, but any time Liz Lemon works in the phrase, "gave me the business" you know the scene is extra special. 

@@ -1,0 +1,7 @@
+---
+layout: post
+date: 2007-11-28 17:20:57 GMT
+title: "Link post"
+---
+<http://www.youtube.com/watch?v=gAMtCCezpfU>
+

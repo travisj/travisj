@@ -1,0 +1,7 @@
+---
+layout: post
+date: 2007-08-29 23:58:24 GMT
+title: "Link post"
+---
+<http://ypnblog.com/blog/2007/08/29/fries-now-go-with-that-shake/>
+

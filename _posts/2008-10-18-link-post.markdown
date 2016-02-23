@@ -1,0 +1,11 @@
+---
+layout: post
+date: 2008-10-18 02:54:08 GMT
+title: "Link post"
+---
+<http://www.eightfivethree.com/2008/10/17/my-birthday-cakes/>
+
+
+<p>I had a great birthday this year. It was so good I had two cakes!</p> <p><a href="http://www.eightfivethree.com/wp-content/uploads/2008/10/p-640-480-1c167477-da7f-414f-aedd-2e23c2c386ad.jpeg"><img src="http://www.eightfivethree.com/wp-content/uploads/2008/10/p-640-480-1c167477-da7f-414f-aedd-2e23c2c386ad.jpeg" alt="" width="225" height="300" class="alignnone size-full wp-image-364"></a><br><br><a href="http://www.eightfivethree.com/wp-content/uploads/2008/10/p-640-480-d7a876df-a5ec-458f-a6b5-f60749225db5.jpeg"><img src="http://www.eightfivethree.com/wp-content/uploads/2008/10/p-640-480-d7a876df-a5ec-458f-a6b5-f60749225db5.jpeg" alt="" width="225" height="300" class="alignnone size-full wp-image-364"></a></p>
+<br><span class="wpbuzz" style="margin: 5px 0;"> <style type="text/css"> span.wpbuzz>span { float:right; } </style>
+<script type="text/javascript"> yahooBuzzArticleHeadline = "My birthday cakes"; </script><script type="text/javascript" src="http://d.yimg.com/ds/badge2.js" badgetype="square">...</script></span>

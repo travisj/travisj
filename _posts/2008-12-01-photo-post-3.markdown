@@ -1,0 +1,8 @@
+---
+layout: post
+date: 2008-12-01 02:42:04 GMT
+title: "Photo post"
+---
+{% img /images/fe1e4c106b7c1feff85b6721bf55bcb11f013aae647d5cdafe71ffbb857821b6.jpg %}
+
+Making a gingerbread house

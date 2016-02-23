@@ -1,0 +1,8 @@
+---
+layout: post
+date: 2009-02-08 01:46:06 GMT
+title: "Photo post"
+---
+{% img /images/5a5cf834796e12fbbaca596c36bde15518a3ff380137aa4d627f2251dd46cd6a.jpg %}
+
+Truffles

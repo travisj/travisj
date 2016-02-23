@@ -1,0 +1,7 @@
+---
+layout: post
+date: 2007-07-02 22:49:34 GMT
+title: "Link post"
+---
+<http://www.usatoday.com/life/movies/simpsons-contest.htm>
+

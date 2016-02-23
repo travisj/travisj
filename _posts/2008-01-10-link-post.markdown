@@ -1,0 +1,9 @@
+---
+layout: post
+date: 2008-01-10 20:59:58 GMT
+title: "Link post"
+---
+<http://www.eightfivethree.com/2008/01/10/marah/>
+
+
+<p><img src="http://www.eightfivethree.com/wp-content/uploads/2008/01/marah.jpg" alt="Marah" title=""></p> <p>These dudes really rock!</p> <p><a href="http://www.saladdaysmusic.net/MP3%27s/Jan%208th%20pics/Marah_-_Angels_of_Destruction!.mp3" title="">Angels of Destruction</a></p> <p>Check out more of their stuff over at <a href="http://hypem.com/search/marah/1/" title="marah / Hype Machine MP3 Blog Search: Tracks">The Hype Machine</a>.</p>

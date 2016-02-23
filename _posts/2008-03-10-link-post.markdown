@@ -1,0 +1,9 @@
+---
+layout: post
+date: 2008-03-10 08:15:04 GMT
+title: "Link post"
+---
+<http://www.eightfivethree.com/2008/03/09/fire-eagle/>
+
+
+<p>I got my beta invite to <a href="http://fireeagle.yahoo.net/" title="Welcome to Fire Eagle!">fire eagle</a> a couple days ago and have played around with the site and looked over the API docs. It’s gonna be a pretty cool service soon. You can’t do very much with it...</p>

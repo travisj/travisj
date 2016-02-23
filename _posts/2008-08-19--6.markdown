@@ -1,0 +1,6 @@
+---
+layout: post
+date: 2008-08-19 06:56:31 GMT
+title: ""
+---
+created a buzz on yahoo! wordpress plugin. download, install, go to settings to configure. http://static.travisj.org/wpbuzz.php.zip

@@ -1,0 +1,7 @@
+---
+layout: post
+date: 2007-05-24 15:50:56 GMT
+title: "Link post"
+---
+<http://blog.assembleron.com/2007/05/23/php-interview-questions-from-yahoo/>
+

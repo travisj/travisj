@@ -1,0 +1,8 @@
+---
+layout: post
+date: 2008-06-05 02:30:44 GMT
+title: "Photo post"
+---
+{% img /images/0676dad8809013a4e42a38527bd935fa07c146972912b6d4def865b8405ef5f0.jpg %}
+
+<b>Kanye?</b>

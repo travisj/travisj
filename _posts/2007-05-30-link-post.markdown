@@ -1,0 +1,7 @@
+---
+layout: post
+date: 2007-05-30 18:01:47 GMT
+title: "Link post"
+---
+<http://www.screencast-o-matic.com/>
+

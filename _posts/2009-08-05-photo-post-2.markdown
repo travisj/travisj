@@ -1,0 +1,8 @@
+---
+layout: post
+date: 2009-08-05 14:52:42 GMT
+title: "Photo post"
+---
+{% img /images/aa918a66034fddf8ec7345cc809c6246c471a17252c3273ea9a174a78a001266.jpg %}
+
+<b>Baby bird</b>

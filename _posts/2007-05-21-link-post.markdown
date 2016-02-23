@@ -1,0 +1,7 @@
+---
+layout: post
+date: 2007-05-21 18:55:29 GMT
+title: "Link post"
+---
+<http://shortcuts.search.yahoo.com/>
+

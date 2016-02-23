@@ -1,0 +1,8 @@
+---
+layout: post
+date: 2008-03-26 03:38:26 GMT
+title: "Photo post"
+---
+{% img /images/f321b1dd857574496844f427b32b196728a9786f5edba350ebbf5d77ab842cd3.jpg %}
+
+<b>Portland</b>

@@ -1,0 +1,8 @@
+---
+layout: post
+date: 2009-06-13 14:00:16 GMT
+title: "Photo post"
+---
+{% img /images/c65fe4e884d40e62c7f24582698ff576cd2404dd036718ecf98758802d76755e.jpg %}
+
+<b>Lunch from blue apron foods.</b>
