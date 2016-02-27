@@ -11,6 +11,7 @@ title: travisj.nyc
 </p>
 <div class="content">
 {{ post.content }}
+<a href="{{ post.url | prepend: site.url }}#disqus_thread">Comments</a>.
 </div>
 {% endfor %}
 
