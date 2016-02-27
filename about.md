@@ -4,12 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I am Travis Johnson. I live in Brooklyn with [my wife](http://rljart.com), [son](https://www.instagram.com/explore/tags/kennethgunnerjohnson/) and [dog](https://www.facebook.com/Crusher-176958435691240/). 
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+I always start blogs and never keep them up. This one will probably not be an exception.
