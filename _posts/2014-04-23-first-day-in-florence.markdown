@@ -4,6 +4,7 @@ date: 2014-04-23 19:47:00 GMT
 tags:
 - florence
 title: "First day in Florence"
+category: fourweeks
 ---
 <p>Yesterday we left Rome and arrived in Florence. To maximize our time in Florence, we decided to get the Firenze Card, which gives us access to most museums and lets us wait in the priority lines, which usually move very fast.&nbsp;</p>
 <p>We made quick use of the card by first climbing to the top of the <a href="http://en.wikipedia.org/wiki/Florence_Cathedral">Duomo</a>&nbsp;and were rewarded with amazing views in all directions. Once we got to the top, we got to spend as much time as we wanted looking out over Florence. Coming down was fun as we had to negotiate the small staircases and free space with people coming up.</p>

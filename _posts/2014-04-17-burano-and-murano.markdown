@@ -4,6 +4,7 @@ date: 2014-04-17 08:35:00 GMT
 tags:
 - venice
 title: "Burano and Murano"
+category: fourweeks
 ---
 <p>We decided to check out Burano and Murano for our second day in Venice. I loved Burano. When we got off the bus, we had a fried fish lunch right by the water and then explored the area for a couple hours.</p>
 <p><img alt="image" src="/images/0adf43c1954974e4da83b519a078e2028712611be6e010c08bc076f584530ec0.jpg" /></p>

@@ -4,6 +4,7 @@ date: 2014-04-13 15:25:00 GMT
 tags:
 - vienna
 title: "Marathon Day"
+category: fourweeks
 ---
 <p>I ran the Vienna City Marathon today and Rachel was an amazing supporter. The race was fine and I got right about what I was expecting and hoping for. I'll run more later, but for the rest of our time in Europe (three more weeks!) we can just focus on eating and sightseeing at each stop.</p>
 <p><img alt="image" src="/images/4f17fe6d1484e466d58c5fa4c0a12a6a4d490a3375f99b1f17f95664542ec45d.jpg" /></p>

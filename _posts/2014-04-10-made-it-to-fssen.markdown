@@ -6,6 +6,7 @@ tags:
 - braubach
 - füssen
 title: "Made it to Füssen"
+category: fourweeks
 ---
 <p><span>Today we made the trip from Bacharach to F&uuml;ssen. The trip took about six and a half hours, but went well. I spent most of the trip taking pictures of Rachel, but by the end of the trip to F&uuml;ssen, the scenery became amazing.</span></p>
 <p><img alt="image" src="/images/7901172bcb8952c15d10f7345d90983095586c08e2ea50534b75bac478db49d9.jpg" /></p>

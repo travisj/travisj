@@ -4,6 +4,7 @@ date: 2014-04-15 16:24:00 GMT
 tags:
 - vienna
 title: "Goodbye, Vienna"
+category: fourweeks
 ---
 <p>Yesterday was our last day in Vienna, and since we didn't catch our night train to Venice until 9pm, we had the whole day to cross off any remaining activities. So after a traditional Viennese breakfast with our friends, we parted ways and headed to&nbsp;<a href="http://en.wikipedia.org/wiki/St._Stephen's_Cathedral,_Vienna">St. Stephen's Cathedral</a>&nbsp;for a look at their treasury. They had some interesting relics and a great view of the inside of the cathedral.</p>
 <p><img alt="image" src="/images/c2fa20e70490eb43079432650cdcaac1111fb2abb2e95343059723f394c5fd57.jpg" /></p>

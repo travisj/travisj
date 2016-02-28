@@ -5,6 +5,6 @@ tags:
 - bacharach
 - stgoar
 title: "Photo post"
+category: fourweeks
 ---
 {% img /images/e5b9cb0c2e93f062e16e25b11eebf0e22212d947a753348dd85bec955e1d6376.jpg %}
-

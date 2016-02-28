@@ -4,6 +4,7 @@ date: 2014-04-11 17:16:00 GMT
 tags:
 - füssen
 title: "Wrapping up our first week with one more castle"
+category: fourweeks
 ---
 <p>We began the day in F&uuml;ssen with a plan to see&nbsp;<a href="http://en.wikipedia.org/wiki/Neuschwanstein_Castle">Neuschwanstein Castle</a>&nbsp;and then catch the trains to Vienna. We are on the last train now (wifi on the Austrian <a href="http://en.wikipedia.org/wiki/Railjet">Railjet</a>!) and so far things have exceeded all my expectations.</p>
 <p>Neuschwanstein Castle was awesome. The views of the castles, the mountains and the valleys were all spectacular.&nbsp;</p>

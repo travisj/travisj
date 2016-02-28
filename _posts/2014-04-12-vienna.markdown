@@ -4,6 +4,7 @@ date: 2014-04-12 20:02:00 GMT
 tags:
 - vienna
 title: "Vienna"
+category: fourweeks
 ---
 <p>We packed a lot into today - in a good way. We started out the day with a short run and ended at the <a href="http://en.wikipedia.org/wiki/Naschmarkt">Naschmarkt</a>&nbsp;for a few baked goods.</p>
 <p>We then headed over to the marathon expo to pick up my number. Nothing too exciting happened at the expo.</p>

@@ -4,6 +4,7 @@ date: 2014-04-06 19:40:00 GMT
 tags:
 - amsterdam
 title: "Amsterdam"
+category: fourweeks
 ---
 <p>Today was our big day in Amsterdam. We slept in late and started the day off with lunch at <a href="http://www.stach-food.nl/">STACH</a>&nbsp;and then headed to <a href="https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;uact=8&amp;ved=0CDcQFjAA&amp;url=https%3A%2F%2Fwww.rijksmuseum.nl%2Fen&amp;ei=IKVBU9TtCeLH7Ab_1IHgBg&amp;usg=AFQjCNEUsQdpZJGm86KP0tSOqyXIAsihgw&amp;sig2=FL1wuaey-6EJD8CS_m8AvA&amp;bvm=bv.64125504,d.ZGU">Rijkesmuseum</a>&nbsp;for a couple hours.</p>
 <p>We had to stick to our schedule and get over to <a href="http://www.vangoghmuseum.nl/vgm/index.jsp">The Van Gogh Museum</a> by 3:00pm. On our walk between the museums we stopped for a quick snack and a few more photos.</p>

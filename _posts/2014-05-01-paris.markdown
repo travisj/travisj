@@ -4,6 +4,7 @@ date: 2014-05-01 09:01:38 GMT
 tags:
 - paris
 title: "Paris"
+category: fourweeks
 ---
 <p>We've made it to our final destination, Paris. I have been looking forward to this stop the entire time and our first day out did not disappoint at all.</p>
 <p>We have three full days here, so on the first day we decided to go the the Louvre and the Arc de Triomphe.</p>

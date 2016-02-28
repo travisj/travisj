@@ -5,6 +5,7 @@ tags:
 - rome
 - vaticancity
 title: "The Vatican"
+category: fourweeks
 ---
 <p>Today we went on a three and a half hour guided tour of the Vatican and it was both impressive and exhausting. There is so much to see in the Vatican Museum, but after a while it all starts looking the same and you lose track the the different 266 popes. We did get to see a lot on the tour - a couple gardens, various walkways between the residences filled with statues and painted ceilings, the Sistine Chapel and St. Peter's Basilica.</p>
 <p>I enjoyed St. Peter's Basilica the most because of just how massive and ornate the building is.&nbsp;</p>

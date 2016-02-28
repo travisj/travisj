@@ -4,6 +4,7 @@ date: 2014-05-02 09:21:00 GMT
 tags:
 - paris
 title: "Versailles and the Eiffel Tower"
+category: fourweeks
 ---
 <p>Today was a bit rainy and almost everything was closed due to May Day, but still had a great day. In the morning we headed out to Versailles to walk the grounds. We couldn't go in anything, but we could walk all over the gardens, so we covered as much ground as we could. I didn't mind not getting into the palace since we've seen quite a few this trip and didn't get to walk around in the impressive&nbsp;Sch&ouml;nbrunn Palace gardens.&nbsp;</p>
 <p><img alt="image" src="/images/b1836093b240e4cd12590b61ca35034d5b75e8377b39971b0e2342ad5eafa6bc.jpg" /></p>

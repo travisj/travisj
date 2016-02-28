@@ -4,6 +4,7 @@ date: 2014-04-28 13:41:00 GMT
 tags:
 - varenna
 title: "Peeping Tom"
+category: fourweeks
 ---
 <p>In my post about Varenna I accidentally left out one event that both horrified me and still has us laughing when we think about it.</p>
 <p>One thing that is different with the hotels we have stayed at than ones I have stayed at before is that the hotel usually put the key on a big, heavy key ring and asks that leave the key at the front desk when you go out. The one difference with our hotel in Varenna was that the front desk closed at midnight, so if you wanted to stay out later, you had to take a bunch of different keys with you to get into the hotel and then into your room.</p>

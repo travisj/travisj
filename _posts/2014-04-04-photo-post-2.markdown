@@ -2,7 +2,8 @@
 layout: post
 date: 2014-04-04 12:57:05 GMT
 title: "Photo post"
+category: fourweeks
 ---
 {% img /images/202f1df40544a7350ad75bccb1ba8b708f3b68f529398266c117e27bee6f7941.jpg %}
 
-Marathon gear has been set aside and ready to be packed. I'm running the Vienna City Marathon next Sunday. 
+Marathon gear has been set aside and ready to be packed. I'm running the Vienna City Marathon next Sunday.

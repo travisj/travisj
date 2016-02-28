@@ -5,6 +5,7 @@ tags:
 - venice
 - rome
 title: "St Mark's Basilica"
+category: fourweeks
 ---
 <p>This morning Rachel and I took a walking tour of&nbsp;<a href="http://en.wikipedia.org/wiki/St_Mark%27s_Basilica">St Mark's Basilica</a>. Before entering the church, we had about an hour walk around the area with the tour guide pointing out other sights - like the Rialto Bridge and Marco Polo's house.&nbsp;St Mark's Basilica was the highlight, of course. The inside was massive and the mosaic work was amazing. We also got to go upstairs to the museum to see the&nbsp;<a href="http://en.wikipedia.org/wiki/Horses_of_Saint_Mark">horses</a>&nbsp;and look out over the plaza.</p>
 <p><img src="/images/0a291502918f2113d4e32af84768465757b3334459d024e79c49d1d6ed2462e2.jpg" /></p>

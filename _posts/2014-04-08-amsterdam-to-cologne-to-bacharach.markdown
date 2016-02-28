@@ -6,6 +6,7 @@ tags:
 - bacharach
 - cologne
 title: "Amsterdam to Cologne to Bacharach"
+category: fourweeks
 ---
 <p><span>Today was our last in Amsterdam. We woke up, packed and then headed out for the Albert Cuypmarkt with hopes of finding some fresh herring and stoopwaffels. We were tight on time so we got there when the market opened and didn't find what we were looking for. If we'd set out for New York City t-shirts then we would have been in luck. We picked up some lunch and snacks for our train ride then found breakfast on the way back to our hotel to check out.</span></p>
 <p>Today was the first day of riding the train and while they recommend you arrive about an hour early on your first day to get your tickets validated, we gave ourselves about 20 minutes. Luckily, 20 minutes were exactly how many it took to find the international desk, wait in line, get our ticket validated and find our platform.</p>

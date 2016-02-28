@@ -3,7 +3,8 @@ layout: post
 date: 2014-04-21 08:32:00 GMT
 tags:
 - rome
-title: "Wandering around Rome "
+title: "Wandering around Rome"
+category: fourweeks
 ---
 <p>Yesterday we spent the day seeing the ancient sites in Rome. We started out at the Pantheon and had bright sunlight beaming through the dome’s opening.</p>
 

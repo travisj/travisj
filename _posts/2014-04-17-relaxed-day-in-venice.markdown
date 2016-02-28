@@ -4,6 +4,7 @@ date: 2014-04-17 18:43:00 GMT
 tags:
 - venice
 title: "Relaxed day in Venice"
+category: fourweeks
 ---
 <p>Today we took it easy. We left the hotel late and walked toward&nbsp;Campo Santa Margherita to find some lunch and gelato. We found both and they were delicious - especially the gelato (<a href="https://twitter.com/shaneadams/status/456039525207126017">thanks Shane</a>!).</p>
 <p><img alt="image" src="/images/55dbf1e0792712509b61bbfb32a280a2b7e0ab83e821194706a94b57188ca184.jpg" /></p>

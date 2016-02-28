@@ -4,6 +4,7 @@ date: 2014-04-16 09:59:00 GMT
 tags:
 - venice
 title: "Venice"
+category: fourweeks
 ---
 <p>We arrived to a sunny Venice at about 8:30am. The overnight train was pretty good. We had a small room to ourselves and were both able to sleep pretty well through the train ride.</p>
 <p>We exited the train station and were immediately in Venice - the Grand Canal was right in front of us with boats moving in every direction. We caught the next&nbsp;Vaporetto toward our hotel.</p>
