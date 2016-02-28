@@ -315,6 +315,9 @@ pre {
       .post-content h4 {
         font-size: 18px; } }
 
+.disqus-link {
+  margin-bottom: 75px; }
+
 /**
  * Syntax highlighting styles
  */
