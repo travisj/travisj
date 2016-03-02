@@ -6,8 +6,8 @@
 </description>
     <link>http://travisj.nyc/</link>
     <atom:link href="http://travisj.nyc/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 28 Feb 2016 22:35:22 -0500</pubDate>
-    <lastBuildDate>Sun, 28 Feb 2016 22:35:22 -0500</lastBuildDate>
+    <pubDate>Tue, 01 Mar 2016 23:43:08 -0500</pubDate>
+    <lastBuildDate>Tue, 01 Mar 2016 23:43:08 -0500</lastBuildDate>
     <generator>Jekyll v3.0.2</generator>
     
       <item>
@@ -57,6 +57,21 @@
         <link>http://travisj.nyc/2016/02/27/kenneth.html</link>
         <guid isPermaLink="true">http://travisj.nyc/2016/02/27/kenneth.html</guid>
         
+        
+      </item>
+    
+      <item>
+        <title>Morning Run</title>
+        <description>&lt;p&gt;This was my first run back after experiencing knee pain nearly two weeks prior. This also happened to be the Al Gordon 4M race in Prospect Park. I decided I needed to test my knee because it had improved over the last week and a half. This was a bit of a mistake and I ended up in more pain after that I when I began. I felt different parts of my leg in pain at different parts of the race.&lt;/p&gt;
+
+&lt;p&gt;Overall, I tried to take it really easy, but still ended up doing more damage. The pain returned to the outside of my right knee, which was mostly felt going up and down stairs. I got a massage the next day and felt dramatically better, but still felt minor soreness and fatigue for over a week.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 20 Feb 2016 03:04:51 -0500</pubDate>
+        <link>http://travisj.nyc/training/2016/02/20/MorningRun.html</link>
+        <guid isPermaLink="true">http://travisj.nyc/training/2016/02/20/MorningRun.html</guid>
+        
+        
+        <category>training</category>
         
       </item>
     
@@ -158,18 +173,6 @@
         <pubDate>Sat, 20 Jun 2015 12:12:56 -0400</pubDate>
         <link>http://travisj.nyc/2015/06/20/photo-post.html</link>
         <guid isPermaLink="true">http://travisj.nyc/2015/06/20/photo-post.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Photo post</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/images/797f2a88e3e737c6dcf3f302558e92a9871a11cfa467a36539fa0ff1188c6c53.jpg&quot; /&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Sun, 14 Jun 2015 14:35:59 -0400</pubDate>
-        <link>http://travisj.nyc/2015/06/14/photo-post.html</link>
-        <guid isPermaLink="true">http://travisj.nyc/2015/06/14/photo-post.html</guid>
         
         
       </item>
