@@ -1,5 +1,5 @@
 ---
-layout: stava
+layout: strava
 hidden: true
 category: training
 date: 2016-02-09T06:53:20Z
