@@ -6,9 +6,22 @@
 </description>
     <link>http://travisj.nyc/</link>
     <atom:link href="http://travisj.nyc/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 02 Mar 2016 00:07:24 -0500</pubDate>
-    <lastBuildDate>Wed, 02 Mar 2016 00:07:24 -0500</lastBuildDate>
+    <pubDate>Thu, 03 Mar 2016 10:08:12 -0500</pubDate>
+    <lastBuildDate>Thu, 03 Mar 2016 10:08:12 -0500</lastBuildDate>
     <generator>Jekyll v3.0.2</generator>
+    
+      <item>
+        <title>Morning Run</title>
+        <description>&lt;p&gt;First run after my right knee injury so I took it easy for the first two miles. At that point, I changed the pace up to a tempo run to see how things felt. I actually felt better at the faster speed. Overall, my knee does not feel as healed as I would like. I am not experiencing any pain, but it feels a bit more sore than ideal. I plan to rest tomorrow and see how things feel this weekend for a five to eight mile run.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 03 Mar 2016 01:44:11 -0500</pubDate>
+        <link>http://travisj.nyc/training/2016/03/03/MorningRun.html</link>
+        <guid isPermaLink="true">http://travisj.nyc/training/2016/03/03/MorningRun.html</guid>
+        
+        
+        <category>training</category>
+        
+      </item>
     
       <item>
         <title>Weekend Update</title>
@@ -149,19 +162,6 @@
         <pubDate>Sun, 31 Jan 2016 05:17:35 -0500</pubDate>
         <link>http://travisj.nyc/training/2016/01/31/MorningRun.html</link>
         <guid isPermaLink="true">http://travisj.nyc/training/2016/01/31/MorningRun.html</guid>
-        
-        
-        <category>training</category>
-        
-      </item>
-    
-      <item>
-        <title>Morning Run</title>
-        <description>
-</description>
-        <pubDate>Sat, 30 Jan 2016 01:58:48 -0500</pubDate>
-        <link>http://travisj.nyc/training/2016/01/30/MorningRun.html</link>
-        <guid isPermaLink="true">http://travisj.nyc/training/2016/01/30/MorningRun.html</guid>
         
         
         <category>training</category>
