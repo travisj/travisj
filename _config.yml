@@ -18,8 +18,8 @@ github_username:  travisj
 # Build settings
 markdown: kramdown
 
+gems: 
+  - jekyll-paginate
+
 paginate: 20
 
-gems: 
-- octopress-image-tag
-- jekyll-paginate
