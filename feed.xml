@@ -6,9 +6,32 @@
 </description>
     <link>http://travisj.nyc/</link>
     <atom:link href="http://travisj.nyc/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 03 Mar 2016 20:27:42 -0500</pubDate>
-    <lastBuildDate>Thu, 03 Mar 2016 20:27:42 -0500</lastBuildDate>
-    <generator>Jekyll v3.0.2</generator>
+    <pubDate>Sun, 06 Mar 2016 16:50:13 -0500</pubDate>
+    <lastBuildDate>Sun, 06 Mar 2016 16:50:13 -0500</lastBuildDate>
+    <generator>Jekyll v3.1.2</generator>
+    
+      <item>
+        <title>Sourdough Bread Notes</title>
+        <description>&lt;p&gt;I mentioned in &lt;a href=&quot;/2016/02/28/weekend-update&quot;&gt;my last post&lt;/a&gt; that I started baking my own sourdough bread from my own starter. I’ve now been at it for two weeks and think the bread is really starting to come along.&lt;/p&gt;
+
+&lt;p&gt;Last night I prepared the dough for a basic sourdough bread, based on &lt;a href=&quot;http://www.theclevercarrot.com/2014/01/sourdough-bread-a-beginners-guide/&quot;&gt;this recipe&lt;/a&gt;. I put in a bit more flour than the recipe called for because of a previous trial with the recipe and think it was about right, but will maybe do a bit less next time. Given that it’s winter and a bit colder, I let bulk fermentation go for about 14 hours. I then split the dough in half and baked the first loaf.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;images/20160307_DSC_1824.JPG&quot; alt=&quot;first loaf&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;images/20160307_DSC_1828.JPG&quot; alt=&quot;first loaf cut&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The first loaf baked in the dutch oven with the lid on for 60 minutes. Since our oven has been burning the bread, I set the oven to about 410°F and the temperature seemed about right this time. It still came out a bit overdone on the outside and maybe a touch underdone inside. The sourdough flavor is starting to show in these latest loaves.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;images/20160307_DSC_1825.JPG&quot; alt=&quot;second loaf&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The second loaf got an extra hour for the second rise and I baked it for only 50 minutes and came out looking perfect.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 06 Mar 2016 16:24:02 -0500</pubDate>
+        <link>http://travisj.nyc/2016/03/06/sourdough-bread-notes.html</link>
+        <guid isPermaLink="true">http://travisj.nyc/2016/03/06/sourdough-bread-notes.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Morning Run</title>
@@ -31,7 +54,7 @@
 
 &lt;p&gt;&lt;img src=&quot;/images/20160228_IMG_8764.JPG&quot; alt=&quot;ken with his microphone&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Rachel and I recently watched Cooked, the documentary based on the book by Michael Pollan. It was a great series and I was especially drawn to the part where he makes his own bread. We looked up a few recipes and started making our own sourdough starter last weekend and this weekend got to start making the bread. The loaves turned out well enough that they could pass for bread, but not quite sourdough. I think the start has to grow a bit more. It was fun making the bread and trying to improve on each loaf as I created it. More to come here, I’m sure.&lt;/p&gt;
+&lt;p&gt;Rachel and I recently watched Cooked, the documentary based on the book by Michael Pollan. It was a great series and I was especially drawn to the part where he makes his own bread. We looked up a few recipes and started making our own sourdough starter last weekend and this weekend got to start making the bread. The loaves turned out well enough that they could pass for bread, but not quite sourdough. I think the starter has to grow a bit more. It was fun making the bread and trying to improve on each loaf as I created it. More to come here, I’m sure.&lt;/p&gt;
 
 &lt;p&gt;I started watching the talks from &lt;a href=&quot;https://www.youtube.com/watch?v=MGuKhcnrqGA&amp;amp;list=PLb0IAmt7-GS0M8Q95RIc2lOM6nc77q1IY&quot;&gt;React.js Conf 2016&lt;/a&gt; this weekend and am pretty excited about the upcoming possibilities with React. I am especially excited about the “learn once, write anywhere” ideas behind the framework as it grows beyond just the web browser.&lt;/p&gt;
 
@@ -149,19 +172,6 @@
         <pubDate>Tue, 02 Feb 2016 02:16:52 -0500</pubDate>
         <link>http://travisj.nyc/training/2016/02/02/MorningRun.html</link>
         <guid isPermaLink="true">http://travisj.nyc/training/2016/02/02/MorningRun.html</guid>
-        
-        
-        <category>training</category>
-        
-      </item>
-    
-      <item>
-        <title>Morning Run</title>
-        <description>
-</description>
-        <pubDate>Sun, 31 Jan 2016 05:17:35 -0500</pubDate>
-        <link>http://travisj.nyc/training/2016/01/31/MorningRun.html</link>
-        <guid isPermaLink="true">http://travisj.nyc/training/2016/01/31/MorningRun.html</guid>
         
         
         <category>training</category>
