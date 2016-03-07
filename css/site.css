@@ -5831,12 +5831,24 @@ body > header {
         padding: 4px; }
   body > header img {
     border: 6px solid #555555; }
+  @media screen and (max-width: 600px) {
+    body > header {
+      -webkit-box-flex: 1;
+      -webkit-flex: 1 0 auto;
+          -ms-flex: 1 0 auto;
+              flex: 1 0 auto; } }
 
 .page-content {
   -webkit-box-flex: 1;
   -webkit-flex: 1 0 80%;
       -ms-flex: 1 0 80%;
           flex: 1 0 80%; }
+  @media screen and (max-width: 600px) {
+    .page-content {
+      -webkit-box-flex: 1;
+      -webkit-flex: 1 0 auto;
+          -ms-flex: 1 0 auto;
+              flex: 1 0 auto; } }
 
 aside {
   -webkit-box-flex: 1;
@@ -5857,6 +5869,12 @@ aside {
     background-color: #eeeeee; }
     aside .sidebar-module ul {
       padding: 0; }
+  @media screen and (max-width: 600px) {
+    aside {
+      -webkit-box-flex: 1;
+      -webkit-flex: 1 0 auto;
+          -ms-flex: 1 0 auto;
+              flex: 1 0 auto; } }
 
 footer {
   -webkit-box-flex: 1;
@@ -5865,3 +5883,9 @@ footer {
           flex: 1 0 100%;
   border-top: 3px solid #eeeeee;
   padding: 30px 0 30px 0; }
+  @media screen and (max-width: 600px) {
+    footer {
+      -webkit-box-flex: 1;
+      -webkit-flex: 1 0 auto;
+          -ms-flex: 1 0 auto;
+              flex: 1 0 auto; } }
