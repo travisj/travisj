@@ -7,9 +7,14 @@ GEM
     babel-transpiler (0.7.0)
       babel-source (>= 4.0, < 6)
       execjs (~> 2.0)
+    bootstrap-sass (3.3.6)
+      autoprefixer-rails (>= 5.2.1)
+      sass (>= 3.3.4)
     colorator (0.1)
     execjs (2.6.0)
     ffi (1.9.10)
+    font-awesome-sass (4.5.0)
+      sass (>= 3.2)
     jekyll (3.1.2)
       colorator (~> 0.1)
       jekyll-sass-converter (~> 1.0)
@@ -21,6 +26,9 @@ GEM
       safe_yaml (~> 1.0)
     jekyll-babel (1.1.0)
       babel-transpiler
+    jekyll-bootstrap-sass (0.1.0)
+      bootstrap-sass (~> 3.3)
+      jekyll (>= 2.5)
     jekyll-paginate (1.1.0)
     jekyll-sass-converter (1.4.0)
       sass (~> 3.4)
@@ -64,8 +72,10 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  font-awesome-sass
   jekyll
   jekyll-babel
+  jekyll-bootstrap-sass
   jekyll-paginate
   kramdown (= 1.10.0)
   octopress
