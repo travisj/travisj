@@ -76,10 +76,17 @@ body > header {
 	img {
 		border: 6px solid $gray;
 	}
+
+	@include media-query($on-palm) {
+		flex: 1 0 auto;
+	}
 }
 
 .page-content {
 	flex: 1 0 80%;
+	@include media-query($on-palm) {
+		flex: 1 0 auto;
+	}
 }
 
 aside {
@@ -106,10 +113,16 @@ aside {
 			padding: 0;
 		}
 	}
+	@include media-query($on-palm) {
+		flex: 1 0 auto;
+	}
 }
 
 footer {
 	flex: 1 0 100%;
 	border-top: 3px solid $gray-lighter;
 	padding: 30px 0 30px 0;
+	@include media-query($on-palm) {
+		flex: 1 0 auto;
+	}
 }
