@@ -23,6 +23,7 @@ markdown: kramdown
 gems: 
   - jekyll-paginate
   - jekyll-bootstrap-sass
+  - octopress-autoprefixer
 
 paginate: 20
 
