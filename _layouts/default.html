@@ -5,7 +5,11 @@
 
   <body>
 
-    {% include header.html %}
+		{% if page.cover_photo %}
+			{% include header_cover_photo.html %}
+		{% else %}
+			{% include header.html %}
+		{% endif %}
 
     <div class="page-content">
       <div class="wrapper">
@@ -13,8 +17,12 @@
       </div>
     </div>
 
+
 		<aside>
 			<div class="wrapper">
+				{% if page.cover_photo %}
+					{% include info.html size=64 %}
+				{% endif %}
 				<div class="sidebar-module sidebar-module-inset">
 					<h4>Find me online</h4>
 					<ul class="social-media-list">

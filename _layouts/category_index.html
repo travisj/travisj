@@ -1,0 +1,9 @@
+---
+layout: default
+---
+
+{{ page.category }}
+
+{% for post in page.category.posts %}
+	{% include post_list.html %}
+{% endfor %}

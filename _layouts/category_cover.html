@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+{% if page.cover_photo %}
+<style type="text/css">
+	.cover-photo {
+		background-image: url('{{ page.cover_photo }}');
+	}
+</style>
+{% endif %}
+
+{% unless page.content == '' %}
+<p>{{ page.content }}</p>
+{% endunless %}
+
+{% for post in site.categories.[page.category] %}
+	{% include post_list.html %}
+{% endfor %}
