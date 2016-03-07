@@ -6,20 +6,25 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: travisj
+title: travisj.nyc
 #email: travisj@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  anything is possible
+  husband. father. engineer. jogger.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://travisj.nyc" # the base hostname & protocol for your site
 twitter_username: travisj
 github_username:  travisj
+instagram_username:  travisj
+facebook_username:  travisj
 
 # Build settings
 markdown: kramdown
 
 gems: 
   - jekyll-paginate
+  - jekyll-bootstrap-sass
 
 paginate: 20
 
+bootstrap:
+  assets: true

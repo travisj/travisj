@@ -10,4 +10,6 @@ group :jekyll_plugins do
 	gem "jekyll-babel"
 	gem "jekyll-paginate"
 	gem "octopress-autoprefixer"
+	gem "jekyll-bootstrap-sass"
+	gem 'font-awesome-sass'
 end
