@@ -5906,7 +5906,7 @@ aside {
         -webkit-flex: 1 0 100%;
             -ms-flex: 1 0 100%;
                 flex: 1 0 100%;
-        margin-bottom: 5px; }
+        margin: 0 0 5px 0; }
         aside .tj-info div h1 a {
           color: #555555; }
       aside .tj-info div p {
