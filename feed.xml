@@ -6,8 +6,8 @@
 </description>
     <link>http://travisj.nyc/</link>
     <atom:link href="http://travisj.nyc/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 12 Mar 2016 10:20:12 -0500</pubDate>
-    <lastBuildDate>Sat, 12 Mar 2016 10:20:12 -0500</lastBuildDate>
+    <pubDate>Sat, 12 Mar 2016 10:24:18 -0500</pubDate>
+    <lastBuildDate>Sat, 12 Mar 2016 10:24:18 -0500</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
       <item>
@@ -24,6 +24,19 @@
         <link>http://travisj.nyc/2016/03/12/bread-success.html</link>
         <guid isPermaLink="true">http://travisj.nyc/2016/03/12/bread-success.html</guid>
         
+        
+      </item>
+    
+      <item>
+        <title>Morning Run</title>
+        <description>&lt;p&gt;Fairly dissapointing run. I’ve been having knee pain, which is why I have been resting it and not running, and I could tell pretty early on that it was not gone. I had hopes of running 12 miles tomorrow, but I think it is best for me to rest it for another week. I have the Paris Marathon coming up in three weeks and given my complete lack of training, a couple more runs here or there is not going to make a difference. The only thing I can hope for now is that I show up to the start line as healthy as possible.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 12 Mar 2016 01:54:09 -0500</pubDate>
+        <link>http://travisj.nyc/training/2016/03/12/MorningRun.html</link>
+        <guid isPermaLink="true">http://travisj.nyc/training/2016/03/12/MorningRun.html</guid>
+        
+        
+        <category>training</category>
         
       </item>
     
@@ -163,19 +176,6 @@
         <pubDate>Sat, 06 Feb 2016 05:32:30 -0500</pubDate>
         <link>http://travisj.nyc/training/2016/02/06/MorningRun.html</link>
         <guid isPermaLink="true">http://travisj.nyc/training/2016/02/06/MorningRun.html</guid>
-        
-        
-        <category>training</category>
-        
-      </item>
-    
-      <item>
-        <title>Morning Run</title>
-        <description>
-</description>
-        <pubDate>Thu, 04 Feb 2016 01:23:19 -0500</pubDate>
-        <link>http://travisj.nyc/training/2016/02/04/MorningRun.html</link>
-        <guid isPermaLink="true">http://travisj.nyc/training/2016/02/04/MorningRun.html</guid>
         
         
         <category>training</category>
