@@ -5952,3 +5952,84 @@ footer {
       -webkit-flex: 1 0 auto;
           -ms-flex: 1 0 auto;
               flex: 1 0 auto; } }
+ aside .social-media-list {
+    list-style: none;
+    margin-left: 0; }
+    aside .social-media-list .icon svg {
+      display: inline-block;
+      width: 16px;
+      height: 16px;
+      vertical-align: middle; }
+  aside .sidebar-module {
+    padding: 15px;
+    background-color: #eeeeee; }
+    aside .sidebar-module ul {
+      padding: 0;
+      display: -webkit-box;
+      display: -webkit-flex;
+      display: -ms-flexbox;
+      display: flex; }
+      aside .sidebar-module ul li {
+        margin-right: 10px; }
+  aside .tj-info {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex-wrap: wrap;
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+    -webkit-box-ordinal-group: 2;
+    -webkit-order: 1;
+        -ms-flex-order: 1;
+            order: 1;
+    padding-bottom: 30px; }
+    aside .tj-info img {
+      border: 6px solid #555555; }
+    aside .tj-info div {
+      margin-left: 10px; }
+      aside .tj-info div h1 {
+        -webkit-box-flex: 1;
+        -webkit-flex: 1 0 100%;
+            -ms-flex: 1 0 100%;
+                flex: 1 0 100%;
+        margin: 0 0 5px 0; }
+        aside .tj-info div h1 a {
+          color: #555555; }
+      aside .tj-info div p {
+        background: #555555;
+        color: #fff;
+        padding: 4px; }
+  @media screen and (max-width: 600px) {
+    aside {
+      -webkit-box-flex: 1;
+      -webkit-flex: 1 0 auto;
+          -ms-flex: 1 0 auto;
+              flex: 1 0 auto; } }
+
+.sidebar-blog-info {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1 0 20%;
+      -ms-flex: 1 0 20%;
+          flex: 1 0 20%;
+  padding: 30px 0 0 0; }
+  @media screen and (max-width: 600px) {
+    .sidebar-blog-info {
+      -webkit-box-flex: 1;
+      -webkit-flex: 1 0 auto;
+          -ms-flex: 1 0 auto;
+              flex: 1 0 auto; } }
+
+footer {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1 0 100%;
+      -ms-flex: 1 0 100%;
+          flex: 1 0 100%;
+  border-top: 3px solid #eeeeee;
+  padding: 30px 0 30px 0; }
+  @media screen and (max-width: 600px) {
+    footer {
+      -webkit-box-flex: 1;
+      -webkit-flex: 1 0 auto;
+          -ms-flex: 1 0 auto;
+              flex: 1 0 auto; } }
