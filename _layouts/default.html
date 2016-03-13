@@ -5,7 +5,7 @@
 
   <body>
 
-		{% if page.cover_photo %}
+		{% if page.cover %}
 			{% include header_cover_photo.html %}
 		{% else %}
 			{% include header.html %}
@@ -20,30 +20,35 @@
 
 		<aside>
 			<div class="wrapper">
-				{% if page.cover_photo %}
+				{% if page.cover %}
 					{% include info.html size=64 %}
 				{% endif %}
+
+				{% if page.description %}
+				<p class="well">{{ page.description }}</p>
+				{% endif %}
+
 				<div class="sidebar-module sidebar-module-inset">
 					<h4>Find me online</h4>
 					<ul class="social-media-list">
 						{% if site.facebook_username %}
 						<li>
-							<a href="http://facebook.com/{{ site.facebook_username }}"><i class="fa fa-facebook"></i> {{ site.facebook_username }}</a>
+							<a href="http://facebook.com/{{ site.facebook_username }}"><i class="fa fa-facebook fa-2x"></i></a>
 						</li>
 						{% endif %}
 						{% if site.instagram_username %}
 						<li>
-							<a href="http://instagram.com/{{ site.instagram_username }}"><i class="fa fa-instagram"></i> {{ site.instagram_username }}</a>
+							<a href="http://instagram.com/{{ site.instagram_username }}"><i class="fa fa-instagram fa-2x"></i></a>
 						</li>
 						{% endif %}
 						{% if site.twitter_username %}
 						<li>
-							<a href="http://twitter.com/{{ site.twitter_username }}"><i class="fa fa-twitter"></i> {{ site.twitter_username }}</a>
+							<a href="http://twitter.com/{{ site.twitter_username }}"><i class="fa fa-twitter fa-2x"></i></a>
 						</li>
 						{% endif %}
 						{% if site.github_username %}
 						<li>
-							<a href="http://github.com/{{ site.github_username }}"><i class="fa fa-github"></i> {{ site.github_username }}</a>
+							<a href="http://github.com/{{ site.github_username }}"><i class="fa fa-github fa-2x"></i></a>
 						</li>
 						{% endif %}
 					</ul>

@@ -1,18 +1,22 @@
 module Jekyll
 
   class CategoryPage < Page
-    def initialize(site, base, dir, category)
+    def initialize(site, base, category, posts)
       @site = site
       @base = base
-      @dir = dir
+      @dir = category
       @name = 'index.html'
 
       self.process(@name)
-      self.read_yaml(File.join(base, '_layouts'), 'category_index.html')
+      self.read_yaml(File.join(base, '_layouts'), 'category_cover.html')
       self.data['category'] = category
+			self.data['posts'] = posts
 
-      category_title_prefix = site.config['category_title_prefix'] || 'Category: '
-      self.data['title'] = "#{category_title_prefix}#{category}"
+			if site.config['custom_categories'].key? category
+				self.data['cover'] = site.config['custom_categories'][category]['cover']
+				self.data['title'] = site.config['custom_categories'][category]['title']
+				self.data['description'] = site.config['custom_categories'][category]['description']
+			end
     end
   end
 
@@ -20,10 +24,9 @@ module Jekyll
     safe true
 
     def generate(site)
-      if site.layouts.key? 'category_index'
-        dir = site.config['category_dir'] || 'categories'
-        site.categories.each_key do |category|
-          site.pages << CategoryPage.new(site, site.source, File.join(dir, category), category)
+      if site.layouts.key? 'category_cover'
+        site.categories.each do |category, posts|
+          site.pages << CategoryPage.new(site, site.source, category, posts)
         end
       end
     end

@@ -24,8 +24,16 @@ gems:
   - jekyll-paginate
   - jekyll-bootstrap-sass
   - octopress-autoprefixer
+  - jemoji
 
 paginate: 20
 
 bootstrap:
   assets: true
+
+custom_categories:
+  fourweeks:
+    cover: /images/category_fourweeks.jpg
+    title: Four Weeks in Europe
+    description: Rachel and I spent most of April 2014 in Europe. It was an incredible trip that took us to parts of The Netherlands, Germany, Austria, Italy, Switzerland and France. I look forward to the day when we retrace our steps and do it all again.
+
