@@ -12,4 +12,5 @@ group :jekyll_plugins do
 	gem "octopress-autoprefixer"
 	gem "jekyll-bootstrap-sass"
 	gem 'font-awesome-sass'
+	gem 'jemoji'
 end

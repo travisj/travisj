@@ -5883,7 +5883,13 @@ aside {
     padding: 15px;
     background-color: #eeeeee; }
     aside .sidebar-module ul {
-      padding: 0; }
+      padding: 0;
+      display: -webkit-box;
+      display: -webkit-flex;
+      display: -ms-flexbox;
+      display: flex; }
+      aside .sidebar-module ul li {
+        margin-right: 10px; }
   aside .tj-info {
     display: -webkit-box;
     display: -webkit-flex;
