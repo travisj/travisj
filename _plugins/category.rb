@@ -12,10 +12,10 @@ module Jekyll
       self.data['category'] = category
 			self.data['posts'] = posts
 
-			if site.config['custom_categories'].key? category
-				self.data['cover'] = site.config['custom_categories'][category]['cover']
-				self.data['title'] = site.config['custom_categories'][category]['title']
-				self.data['description'] = site.config['custom_categories'][category]['description']
+			if site.data['categories'].key? category
+				self.data['cover'] = site.data['categories'][category]['cover']
+				self.data['title'] = site.data['categories'][category]['title']
+				self.data['description'] = site.data['categories'][category]['description']
 			end
     end
   end

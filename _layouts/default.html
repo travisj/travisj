@@ -24,13 +24,13 @@
 					{% include info.html size=64 %}
 				{% endif %}
 
-				{% if site.custom_categories[page.category]['description'] %}
+				{% if site.data.categories[page.category]['description'] %}
 				<div class="well">
 					<p>
-						{{ site.custom_categories[page.category]['description'] }}
+						{{ site.data.categories[page.category]['description'] }}
 					</p>
 					<p>
-						<a href="/{{ page.category }}">Read more posts about {{ site.custom_categories[page.category]['title'] }}</a>
+						<a href="/{{ page.category }}">Read more posts about {{ site.data.categories[page.category]['title'] }}</a>
 					</p>
 				</div>
 				{% endif %}
