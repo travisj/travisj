@@ -1,0 +1,9 @@
+---
+layout: post
+date: 2014-10-21 01:56:11 GMT
+title: "Photo post"
+category: crusher
+---
+{% img /images/9499fc7932ea3bc57c57ed601e1eb7a736e80f8675788ebe94ace61889107ce3.jpg %}
+
+Night on the town.

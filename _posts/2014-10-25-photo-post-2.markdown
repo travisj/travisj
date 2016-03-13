@@ -1,0 +1,7 @@
+---
+layout: post
+date: 2014-10-25 15:55:44 GMT
+title: "Photo post"
+category: crusher
+---
+{% img /images/7497758d0d035f6b4dd0c54c65e8c4498cda698a19c5a11661633cd44a37577b.jpg %}

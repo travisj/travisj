@@ -1,0 +1,9 @@
+---
+layout: post
+date: 2014-12-15 01:08:39 GMT
+title: "Photo post"
+category: crusher
+---
+{% img /images/dfd9307c908d5aaa4a8ecd20ff968e00bb6b304bc4e517c33aabaa39f8f23bc8.jpg %}
+
+On the town

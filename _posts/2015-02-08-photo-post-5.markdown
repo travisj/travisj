@@ -1,0 +1,9 @@
+---
+layout: post
+date: 2015-02-08 16:52:02 GMT
+title: "Photo post"
+category: crusher
+---
+{% img /images/02f8f9d6fdd3d133853aa3f2863dde1575d0fca60effb3ba3af0525f708fb019.jpg %}
+
+Watching over the baby.
