@@ -6,9 +6,28 @@
 </description>
     <link>http://travisj.nyc/</link>
     <atom:link href="http://travisj.nyc/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 13 Mar 2016 13:55:15 -0400</pubDate>
-    <lastBuildDate>Sun, 13 Mar 2016 13:55:15 -0400</lastBuildDate>
+    <pubDate>Sat, 19 Mar 2016 13:19:36 -0400</pubDate>
+    <lastBuildDate>Sat, 19 Mar 2016 13:19:36 -0400</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
+    
+      <item>
+        <title>Darkroom Filter</title>
+        <description>&lt;p&gt;I was editing a photo in &lt;a href=&quot;http://usedarkroom.com/&quot;&gt;Darkroom&lt;/a&gt; last night and came across the filter sharing feature. Darkroom allows you to create and save your own photo filter. After you’ve created the filter, you have the option to share it on Facebook, Instagram or Twitter. That’s neat, but the thing that is the coolest is the way you share the filter. Darkroom adds a QR code to your photo and you then share the photo. A user that wants to install your filter then takes a screenshot of the QR code and opens Darkroom. That’s it, the filter is magically installed.&lt;/p&gt;
+
+&lt;p&gt;Give it a try!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/20160319_IMG_8952.jpg&quot; alt=&quot;my filter&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Out of interest, I used a QR code reader to see what content was being encoded and it is a simple URL to open the Darkroom app and install the filter&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;darkroom:///install_filter?id=441&quot;&gt;darkroom:///install_filter?id=441&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 19 Mar 2016 13:09:34 -0400</pubDate>
+        <link>http://travisj.nyc/2016/03/19/darkroom-filter.html</link>
+        <guid isPermaLink="true">http://travisj.nyc/2016/03/19/darkroom-filter.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Happy Birthday Crusher!</title>
@@ -165,19 +184,6 @@
         <pubDate>Tue, 09 Feb 2016 01:53:20 -0500</pubDate>
         <link>http://travisj.nyc/training/2016/02/09/MorningRun.html</link>
         <guid isPermaLink="true">http://travisj.nyc/training/2016/02/09/MorningRun.html</guid>
-        
-        
-        <category>training</category>
-        
-      </item>
-    
-      <item>
-        <title>Morning Run</title>
-        <description>
-</description>
-        <pubDate>Sun, 07 Feb 2016 01:53:56 -0500</pubDate>
-        <link>http://travisj.nyc/training/2016/02/07/MorningRun.html</link>
-        <guid isPermaLink="true">http://travisj.nyc/training/2016/02/07/MorningRun.html</guid>
         
         
         <category>training</category>

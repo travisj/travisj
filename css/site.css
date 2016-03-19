@@ -5912,10 +5912,16 @@ aside {
         margin: 0 0 5px 0; }
         aside .tj-info div h1 a {
           color: #555555; }
+        @media screen and (max-width: 1233px) {
+          aside .tj-info div h1 {
+            font-size: 20px; } }
       aside .tj-info div p {
         background: #555555;
         color: #fff;
         padding: 4px; }
+        @media screen and (max-width: 1233px) {
+          aside .tj-info div p {
+            font-size: 10px; } }
   @media screen and (max-width: 600px) {
     aside {
       -webkit-box-flex: 1;
