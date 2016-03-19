@@ -154,12 +154,20 @@ aside {
 				a {
 					color: $gray;
 				}
+
+				@include media-query(1233px) {
+					font-size: 20px;
+				}
 			}
 
 			p {
 				background: $gray;
 				color: #fff;
 				padding: 4px;
+
+				@include media-query(1233px) {
+					font-size: 10px;
+				}
 			}
 		}
 	}
