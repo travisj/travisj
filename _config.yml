@@ -25,6 +25,7 @@ gems:
   - jekyll-bootstrap-sass
   - octopress-autoprefixer
   - jemoji
+  - octopress-image-tag
 
 paginate: 20
 

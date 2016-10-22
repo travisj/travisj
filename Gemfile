@@ -6,6 +6,7 @@ gem "kramdown", "1.10.0"
 gem "octopress"
 
 group :jekyll_plugins do
+	gem "jekyll-admin"
 	gem "octopress-image-tag"
 	gem "jekyll-babel"
 	gem "jekyll-paginate"
