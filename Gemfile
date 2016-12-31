@@ -6,6 +6,7 @@ gem "kramdown", "1.10.0"
 gem "redcarpet"
 
 gem "jekyll-watch"
+gem "pygments.rb"
 
 group :jekyll_plugins do
 	gem "jekyll-admin"

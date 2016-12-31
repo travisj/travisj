@@ -8,7 +8,7 @@ I've become more interested in secure communications over the last couple months
 
 Here's my public key if you have anything important to send me.
 
-{% highlight %}
+``` bash
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQINBFgrdFMBEADx0u0OBy2nAWS7rYTR6fG+HX0z2Cr79aJ61Wa0jn3hxqGEbd40
@@ -86,4 +86,4 @@ C0UT1F/wEMjSK+kUgQIN5DLM496vrk12krWZa1XHBl2jnwtGD+beCoQtnU2I6UWf
 Tg==
 =AAFD
 -----END PGP PUBLIC KEY BLOCK-----
-{% endhighlight %}
+```
