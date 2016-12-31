@@ -3,6 +3,6 @@ layout: post
 date: 2008-12-22 01:29:36 GMT
 title: "Photo post"
 ---
-{% img /images/597f38b6286b7123639052b9d2d4e3c964495d1b38c4a0ad6f997c8861bf5738.jpg %}
+![travisj](/images/597f38b6286b7123639052b9d2d4e3c964495d1b38c4a0ad6f997c8861bf5738.jpg)
 
 Maps

@@ -3,6 +3,6 @@ layout: post
 date: 2015-06-21 15:04:20 GMT
 title: "Photo post"
 ---
-{% img /images/72a18d4d017003f78d08dd97b30fc5080a7114602f12f7b6b6c363558c289518.jpg %}
+![travisj](/images/72a18d4d017003f78d08dd97b30fc5080a7114602f12f7b6b6c363558c289518.jpg)
 
 <p>Clouds over Lower Manhattan. There is always a great view when running over the Brooklyn Bridge.<br></p>

@@ -6,6 +6,6 @@ tags:
 title: "Photo post"
 category: fourweeks
 ---
-{% img /images/94ef5d2f10a05dadba45f973c4349979299def8da342e6e34f7fef483edab132.jpg %}
+![travisj](/images/94ef5d2f10a05dadba45f973c4349979299def8da342e6e34f7fef483edab132.jpg)
 
 <p>Yesterday in Cologne.</p>

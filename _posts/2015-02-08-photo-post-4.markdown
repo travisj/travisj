@@ -4,4 +4,4 @@ date: 2015-02-08 20:11:51 GMT
 title: "Photo post"
 category: crusher
 ---
-{% img /images/4f9b24e385be1b1af17c7cec635d1127fbe4332df0dbf09d05159fe45f2b8356.jpg %}
+![travisj](/images/4f9b24e385be1b1af17c7cec635d1127fbe4332df0dbf09d05159fe45f2b8356.jpg)

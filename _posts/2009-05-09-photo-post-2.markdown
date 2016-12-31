@@ -3,6 +3,6 @@ layout: post
 date: 2009-05-09 15:07:43 GMT
 title: "Photo post"
 ---
-{% img /images/e649c51eff8c4cd66b20fcd2d1795269d59caab69cbaa38fbc37c0451cbbab8e.jpg %}
+![travisj](/images/e649c51eff8c4cd66b20fcd2d1795269d59caab69cbaa38fbc37c0451cbbab8e.jpg)
 
 <b>we saw this lamp/phone on the corner of 5th and president. let me know if you want me to pick it up for you.</b>

@@ -3,6 +3,6 @@ layout: post
 date: 2009-03-28 15:50:29 GMT
 title: "Photo post"
 ---
-{% img /images/3501b1890054bcff511ea6a262edd2ad6d93dc77a1becd5c6272d59f6a04ef6a.jpg %}
+![travisj](/images/3501b1890054bcff511ea6a262edd2ad6d93dc77a1becd5c6272d59f6a04ef6a.jpg)
 
 <b>Mountains</b>

@@ -3,6 +3,6 @@ layout: post
 date: 2009-04-26 15:27:40 GMT
 title: "Photo post"
 ---
-{% img /images/ff95a33d31258cf279f2850dd6a72862cf950be1f83438adb0f7cbe3ebec3c26.jpg %}
+![travisj](/images/ff95a33d31258cf279f2850dd6a72862cf950be1f83438adb0f7cbe3ebec3c26.jpg)
 
 <b>Rachel made me eat this so she could use the jar for a swap. Babies have it rough and they can't even tell anyone.</b>

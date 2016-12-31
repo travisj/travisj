@@ -3,6 +3,6 @@ layout: post
 date: 2008-05-06 03:18:16 GMT
 title: "Photo post"
 ---
-{% img /images/f149e4467027f6196473583994a3ab33760ed7b4448837d5d4e61d6e80e129d5.jpg %}
+![travisj](/images/f149e4467027f6196473583994a3ab33760ed7b4448837d5d4e61d6e80e129d5.jpg)
 
 <b>From the north bank</b>

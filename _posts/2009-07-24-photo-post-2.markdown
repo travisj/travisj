@@ -3,6 +3,6 @@ layout: post
 date: 2009-07-24 16:48:54 GMT
 title: "Photo post"
 ---
-{% img /images/cdac954dc6d7e3b4946e845a7cb60d5ea2fe970a9861078be5a65972d2dfee18.jpg %}
+![travisj](/images/cdac954dc6d7e3b4946e845a7cb60d5ea2fe970a9861078be5a65972d2dfee18.jpg)
 
 <b>Got here early for this? When do they start selling churros???</b>

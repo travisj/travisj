@@ -3,6 +3,6 @@ layout: post
 date: 2008-04-21 01:44:57 GMT
 title: "Photo post"
 ---
-{% img /images/1012a065b376abea593c1bb195247aa7f3e15da68ad15ae9d3b48b07eb7d7dc2.jpg %}
+![travisj](/images/1012a065b376abea593c1bb195247aa7f3e15da68ad15ae9d3b48b07eb7d7dc2.jpg)
 
 <b>Hail</b>

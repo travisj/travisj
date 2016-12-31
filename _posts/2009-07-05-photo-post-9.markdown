@@ -3,6 +3,6 @@ layout: post
 date: 2009-07-05 15:21:40 GMT
 title: "Photo post"
 ---
-{% img /images/c547c4b10518594ed3caf88b5f11e861fcc8353321a37ef5720fccf62aa8d8d7.jpg %}
+![travisj](/images/c547c4b10518594ed3caf88b5f11e861fcc8353321a37ef5720fccf62aa8d8d7.jpg)
 
 <b>the empire state building on the 4th.</b>

@@ -3,6 +3,6 @@ layout: post
 date: 2008-06-18 21:19:06 GMT
 title: "Photo post"
 ---
-{% img /images/d81432ead994f39aaa8614e8f101dbad8dddd0d95811dffd0bbbcdfb53acbd0d.jpg %}
+![travisj](/images/d81432ead994f39aaa8614e8f101dbad8dddd0d95811dffd0bbbcdfb53acbd0d.jpg)
 
 <b>Ditch day golf</b>

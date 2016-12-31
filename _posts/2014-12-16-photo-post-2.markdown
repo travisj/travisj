@@ -4,6 +4,6 @@ date: 2014-12-16 00:58:31 GMT
 title: "Photo post"
 category: crusher
 ---
-{% img /images/a78827aac67817de98313e5c0e1557837f0186ac6b661e13deab6788423474cc.jpg %}
+![travisj](/images/a78827aac67817de98313e5c0e1557837f0186ac6b661e13deab6788423474cc.jpg)
 
 Trying to make a break for it at the vet

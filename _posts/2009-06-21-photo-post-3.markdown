@@ -3,6 +3,6 @@ layout: post
 date: 2009-06-21 13:44:03 GMT
 title: "Photo post"
 ---
-{% img /images/8679fcb1d509aa7b1186575b4f56e95730ae381ec48ed82d15669035782de23a.jpg %}
+![travisj](/images/8679fcb1d509aa7b1186575b4f56e95730ae381ec48ed82d15669035782de23a.jpg)
 
 <b>Taking a mid-chase break.</b>

@@ -3,6 +3,6 @@ layout: post
 date: 2008-12-13 05:13:35 GMT
 title: "Photo post"
 ---
-{% img /images/995734160f22c4b006f99aad65f3232d8a0bdc2610142c17f1300e1cf6eb6638.jpg %}
+![travisj](/images/995734160f22c4b006f99aad65f3232d8a0bdc2610142c17f1300e1cf6eb6638.jpg)
 
 Rachel unwrapped this beauty in her company's holiday party.

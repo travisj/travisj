@@ -4,6 +4,6 @@ date: 2014-10-24 01:21:17 GMT
 title: "Photo post"
 category: crusher
 ---
-{% img /images/e078b9208f1757466c40d77570ab9aecfe1d62104cb4048f1c982c1098527b23.jpg %}
+![travisj](/images/e078b9208f1757466c40d77570ab9aecfe1d62104cb4048f1c982c1098527b23.jpg)
 
 Getting hugs.

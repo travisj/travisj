@@ -3,7 +3,7 @@ layout: post
 date: 2010-09-04 00:35:49 GMT
 title: "Photo post"
 ---
-{% img /images/1f139aef02cd3f668dc10879ec534e604e8c21282ead1c1d7869cee717591e8f.jpg %}
+![travisj](/images/1f139aef02cd3f668dc10879ec534e604e8c21282ead1c1d7869cee717591e8f.jpg)
 
 <p><a href="http://www.amazon.com/Witmark-Demos-1962-1964-Bootleg-Vinyl/dp/B0040GJ31C/ref=pd_zg_rss_nr_m_387647011_6">Amazon.com: The Witmark Demos: 1962-1964 (The Bootleg Series Vol. 9) (Vinyl): Bob Dylan: Music</a></p>&#13;
 <p>Comes out right after my birthday, what a coincidence!</p> 

@@ -3,6 +3,6 @@ layout: post
 date: 2009-12-03 03:33:37 GMT
 title: "Photo post"
 ---
-{% img /images/17dc5db0eb154d74cb5151588b5945f6c07ee9482d93dd20bc8e448a9eeadee3.jpg %}
+![travisj](/images/17dc5db0eb154d74cb5151588b5945f6c07ee9482d93dd20bc8e448a9eeadee3.jpg)
 
 <b>IMG_0040</b>

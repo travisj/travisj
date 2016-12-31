@@ -3,6 +3,6 @@ layout: post
 date: 2009-11-28 20:03:09 GMT
 title: "Photo post"
 ---
-{% img /images/54d6701def346d2ededb2b28740c67b1823abffff7840fb0bdcb5e2956e6e58b.jpg %}
+![travisj](/images/54d6701def346d2ededb2b28740c67b1823abffff7840fb0bdcb5e2956e6e58b.jpg)
 
 <b>Statue of liberty from the ferry</b>

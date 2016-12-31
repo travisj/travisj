@@ -3,6 +3,6 @@ layout: post
 date: 2011-03-06 16:15:16 GMT
 title: "Photo post"
 ---
-{% img /images/55687a5415003f2b6e40989aa58f7f96729ddc1d6f621e4c791786402736349e.jpg %}
+![travisj](/images/55687a5415003f2b6e40989aa58f7f96729ddc1d6f621e4c791786402736349e.jpg)
 
 It's Eugene weather today. Go Ducks!

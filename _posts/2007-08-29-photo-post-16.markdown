@@ -3,6 +3,6 @@ layout: post
 date: 2007-08-29 06:03:08 GMT
 title: "Photo post"
 ---
-{% img /images/ea69449330c81524827e3c2504e1e9e8b1c7d45e57d3d6d3118a3d4cdadb2b11.jpg %}
+![travisj](/images/ea69449330c81524827e3c2504e1e9e8b1c7d45e57d3d6d3118a3d4cdadb2b11.jpg)
 
 <b>IMG_2765.JPG</b> (via <a href="http://www.flickr.com/photos/travisjohnson/1264155602/">Photos from travisjohnson</a>)

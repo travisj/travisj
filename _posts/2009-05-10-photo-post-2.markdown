@@ -3,6 +3,6 @@ layout: post
 date: 2009-05-10 13:09:33 GMT
 title: "Photo post"
 ---
-{% img /images/590e7fe130dc2c49e47e41bf9e0ef16f7e17f4a981fbf60b51bbf37b7900ed01.jpg %}
+![travisj](/images/590e7fe130dc2c49e47e41bf9e0ef16f7e17f4a981fbf60b51bbf37b7900ed01.jpg)
 
 <b>Dog park.</b>

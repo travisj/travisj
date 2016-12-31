@@ -3,6 +3,6 @@ layout: post
 date: 2008-12-02 06:28:36 GMT
 title: "Photo post"
 ---
-{% img /images/e10ef3b3601b61b52e668659ff7e1242fe1de87f9cc18d38ad24fcefa9626e19.jpg %}
+![travisj](/images/e10ef3b3601b61b52e668659ff7e1242fe1de87f9cc18d38ad24fcefa9626e19.jpg)
 
 I'm working on the roof.

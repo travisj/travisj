@@ -3,6 +3,6 @@ layout: post
 date: 2009-07-05 15:21:23 GMT
 title: "Photo post"
 ---
-{% img /images/8b6cfc3d8b601b6cd61fbae744b830780fca95312dc3a08bf5041b8f15b17229.jpg %}
+![travisj](/images/8b6cfc3d8b601b6cd61fbae744b830780fca95312dc3a08bf5041b8f15b17229.jpg)
 
 <b>We hit up magnolias after the fireworks. So tasty.</b>

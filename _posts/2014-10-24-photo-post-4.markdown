@@ -4,6 +4,6 @@ date: 2014-10-24 01:20:59 GMT
 title: "Photo post"
 category: crusher
 ---
-{% img /images/1e69dabe9663703cc75eda9df92d0d30cce293678e050f54c264e6b8c4b7bdf5.jpg %}
+![travisj](/images/1e69dabe9663703cc75eda9df92d0d30cce293678e050f54c264e6b8c4b7bdf5.jpg)
 
 Playing on the stairs.

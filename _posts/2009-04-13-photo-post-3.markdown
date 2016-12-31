@@ -3,6 +3,6 @@ layout: post
 date: 2009-04-13 02:55:48 GMT
 title: "Photo post"
 ---
-{% img /images/6e264994dee0d36e8e6122c77d10cabe3a7d7b1e2225626c8a2cf70f6cf1ce22.jpg %}
+![travisj](/images/6e264994dee0d36e8e6122c77d10cabe3a7d7b1e2225626c8a2cf70f6cf1ce22.jpg)
 
 <b>Sliding</b>

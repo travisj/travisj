@@ -3,6 +3,6 @@ layout: post
 date: 2009-04-16 02:06:27 GMT
 title: "Photo post"
 ---
-{% img /images/362dc70df1129feef6e5892cc166754a0e7d1d1ecde353abc43875a9a81efeb8.jpg %}
+![travisj](/images/362dc70df1129feef6e5892cc166754a0e7d1d1ecde353abc43875a9a81efeb8.jpg)
 
 <b>And so does Rachel.</b>

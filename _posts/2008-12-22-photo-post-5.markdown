@@ -3,6 +3,6 @@ layout: post
 date: 2008-12-22 01:22:50 GMT
 title: "Photo post"
 ---
-{% img /images/fe69aede36e69e37217cb7c470ca5e7544906c28b1fccac87dcebb0ad9d0fedd.jpg %}
+![travisj](/images/fe69aede36e69e37217cb7c470ca5e7544906c28b1fccac87dcebb0ad9d0fedd.jpg)
 
 Rock band at the johnson182's

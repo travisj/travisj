@@ -3,6 +3,6 @@ layout: post
 date: 2009-03-30 04:51:30 GMT
 title: "Photo post"
 ---
-{% img /images/989b3cc0e42eb513bfbfebd7892c4b345e2492f574f4f25177abb53e4afbbbd4.jpg %}
+![travisj](/images/989b3cc0e42eb513bfbfebd7892c4b345e2492f574f4f25177abb53e4afbbbd4.jpg)
 
 <b>Surfing the web at the swanky Quality Inn</b>

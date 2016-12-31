@@ -3,6 +3,6 @@ layout: post
 date: 2008-12-22 22:11:07 GMT
 title: "Photo post"
 ---
-{% img /images/2bede1314f851ea1f6443375e119eb9a14b407daa2efec63ac0700c12511e8f7.jpg %}
+![travisj](/images/2bede1314f851ea1f6443375e119eb9a14b407daa2efec63ac0700c12511e8f7.jpg)
 
 New ornament from my parents. The tiny dog is crusher.

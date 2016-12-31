@@ -3,6 +3,6 @@ layout: post
 date: 2009-04-25 14:26:28 GMT
 title: "Photo post"
 ---
-{% img /images/a8d23d94054a6dca69aea227a155d29af6bfda9b83abcdc3d3b6a3140d7619cf.jpg %}
+![travisj](/images/a8d23d94054a6dca69aea227a155d29af6bfda9b83abcdc3d3b6a3140d7619cf.jpg)
 
 <b>Saturday morning at the dog park.</b>

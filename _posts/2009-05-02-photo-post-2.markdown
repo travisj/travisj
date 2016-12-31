@@ -3,6 +3,6 @@ layout: post
 date: 2009-05-02 19:38:36 GMT
 title: "Photo post"
 ---
-{% img /images/e5b25335b747c4853cee6d9114795a32a9bba95b8da9cbede49172480eb3d43e.jpg %}
+![travisj](/images/e5b25335b747c4853cee6d9114795a32a9bba95b8da9cbede49172480eb3d43e.jpg)
 
 <b>Free comic book day at Bergen st comics.</b>

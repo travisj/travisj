@@ -3,6 +3,6 @@ layout: post
 date: 2009-07-05 15:21:47 GMT
 title: "Photo post"
 ---
-{% img /images/89e88bd4b7bb3242413013065498e843537ead8ee3b49f5ecce7acb72d2c5f2b.jpg %}
+![travisj](/images/89e88bd4b7bb3242413013065498e843537ead8ee3b49f5ecce7acb72d2c5f2b.jpg)
 
 <b>4th of july fireworks on the Hudson river.</b>

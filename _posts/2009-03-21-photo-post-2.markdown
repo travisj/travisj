@@ -3,6 +3,6 @@ layout: post
 date: 2009-03-21 05:22:06 GMT
 title: "Photo post"
 ---
-{% img /images/f702eccf5bec6b09ca65988914cb71f86dfde4039a0218349804bbbbc461654d.jpg %}
+![travisj](/images/f702eccf5bec6b09ca65988914cb71f86dfde4039a0218349804bbbbc461654d.jpg)
 
 Playing with the dog

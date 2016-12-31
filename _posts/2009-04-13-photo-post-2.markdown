@@ -3,6 +3,6 @@ layout: post
 date: 2009-04-13 02:55:51 GMT
 title: "Photo post"
 ---
-{% img /images/c80239a246ce8b5f78b34a81aecbe862d569089186a945e4f1b14e34f1a4a2f7.jpg %}
+![travisj](/images/c80239a246ce8b5f78b34a81aecbe862d569089186a945e4f1b14e34f1a4a2f7.jpg)
 
 <b>At the park</b>

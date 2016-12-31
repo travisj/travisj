@@ -3,6 +3,6 @@ layout: post
 date: 2009-06-21 13:43:56 GMT
 title: "Photo post"
 ---
-{% img /images/eac024b59a7ae3a49f4327e26294fdd3a95fbb802dddd25593908c62e9b70800.jpg %}
+![travisj](/images/eac024b59a7ae3a49f4327e26294fdd3a95fbb802dddd25593908c62e9b70800.jpg)
 
 <b>Getting chased in the stairs</b>
