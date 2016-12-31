@@ -1,73 +1,15 @@
 <!DOCTYPE html>
-<html>
+<html lang="en-us">
 
   {% include head.html %}
 
   <body>
 
-		{% if page.cover %}
-			{% include header_cover_photo.html %}
-		{% else %}
-			{% include header.html %}
-		{% endif %}
+    {% include sidebar.html %}
 
-    <div class="page-content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
+    <div class="content container">
+      {{ content }}
     </div>
 
-
-		<aside>
-			<div class="wrapper">
-				{% if page.cover %}
-					{% include info.html size=64 %}
-				{% endif %}
-
-				{% if site.data.categories[page.category]['description'] %}
-				<div class="well">
-					<p>
-						{{ site.data.categories[page.category]['description'] }}
-					</p>
-					<p>
-						<a href="/{{ page.category }}">Read more posts about {{ site.data.categories[page.category]['title'] }}</a>
-					</p>
-				</div>
-				{% endif %}
-
-				<div class="sidebar-module sidebar-module-inset well">
-					<h4>Find me online</h4>
-					<ul class="social-media-list">
-						{% if site.facebook_username %}
-						<li>
-							<a href="http://facebook.com/{{ site.facebook_username }}"><i class="fa fa-facebook fa-2x"></i></a>
-						</li>
-						{% endif %}
-						{% if site.instagram_username %}
-						<li>
-							<a href="http://instagram.com/{{ site.instagram_username }}"><i class="fa fa-instagram fa-2x"></i></a>
-						</li>
-						{% endif %}
-						{% if site.twitter_username %}
-						<li>
-							<a href="http://twitter.com/{{ site.twitter_username }}"><i class="fa fa-twitter fa-2x"></i></a>
-						</li>
-						{% endif %}
-						{% if site.github_username %}
-						<li>
-							<a href="http://github.com/{{ site.github_username }}"><i class="fa fa-github fa-2x"></i></a>
-						</li>
-						{% endif %}
-					</ul>
-				</div>
-      </div>
-			</div>
-		</aside>
-
-    {% include footer.html %}
-
-		<script id="dsq-count-scr" src="//travisjnyc.disqus.com/count.js" async></script>
-		{% include google_analytics.html %}
   </body>
-
 </html>
