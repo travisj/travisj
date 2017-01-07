@@ -120,7 +120,7 @@ REGULAR Opening Hours (Winter) - Monday to Saturday - 10am to 4pm. Sunday - 11am
 
 [http://www.bouchee.bm/](http://www.bouchee.bm/)  
 75 Pitts Bay Road  
-*This is my favorite restaurant in all of Bermuad!*
+*This is my favorite restaurant in all of Bermuda!*
 
 ##### Nonna’s Kitchen
 [http://nonnaskitchenbermuda.com/](http://nonnaskitchenbermuda.com/)  
