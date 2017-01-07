@@ -5,6 +5,9 @@ title: "Bermuda 2017"
 
 ![](/images/2017/01/city-of-hamilton-bermuda.jpg)
 
+<h2 class="no_toc">Table on contents</h2>
+{:toc}
+
 ## Information
 
 ### Hotels
