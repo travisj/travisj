@@ -61,7 +61,7 @@ Front Street
 
 ### Bermuda, general
 
-##### [SEA EXPRESS FERRIES](http://www.marineandports.bm/)
+##### [Sea Express Ferries](http://www.marineandports.bm/)
 ![](/images/2017/01/Bermuda-Sea-Express-Ferry.jpg)
 
 +1 (441) 295-4506  
@@ -69,20 +69,20 @@ Front Street
 
 > The Blue Route serves Hamilton, Somerset and Dockyard ($4.50 in tokens or $5.00 in cash each way. The most economical option is a Transportation Pass which is valid on all routes on both ferries and buses and cost are, adult 1 day $19.00, 2 day $31.50, 3 day $44.00, 4 day $48.50
 
-##### [RAILWAY TRAIL](http://www.gotobermuda.com/article/the-bermuda-railway-trail-national-park)
+##### [Railway Trail](http://www.gotobermuda.com/article/the-bermuda-railway-trail-national-park)
 ![](/images/2017/01/railway-trail-bikers-self-guided-tour.jpg)
 
 > Spanning the island from end to end, the Railway Trail follows an abandoned railbed that winds through tranquil landscapes and along stunning rocky coastlines. Eighteen peaceful miles of island history and breathtaking views are yours to explore by foot or pedal bike, but no motorized vehicles are allowed.
 ### St. George's
 
-##### [ALEX & PETE'S BERMUDA ARTISAN ICE CREAM](https://www.facebook.com/Alex-Petes-Bermuda-Artisan-Ice-Cream-725151774247002/)
+##### [Alex Pete S Bermuda Artisan Ice Cream](https://www.facebook.com/Alex-Petes-Bermuda-Artisan-Ice-Cream-725151774247002/)
 Rose Hill  
 +1 (441) 337-6101  
 *Their ice cream looks good!*
 
 ### Dockyard
 
-##### [ROYAL NAVAL DOCKYARD](http://dockyardbermuda.com/)
+##### [Royal Naval Dockyard](http://dockyardbermuda.com/)
 ![](/images/2017/01/2016-08-14.jpg)
 
 +1 (441) 234-1709
