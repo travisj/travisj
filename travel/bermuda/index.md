@@ -101,6 +101,7 @@ REGULAR Opening Hours (Winter) - Monday to Saturday - 10am to 4pm. Sunday - 11am
 > Peruse Bermuda-made wares from more than 60 local artists at the island's largest craft marketplace. Located in the Royal Naval Dockyard, the Bermuda Craft Market occupies the Cooperage Building, a former warehouse and barrel workshop built in 1831. As you walk among the vendors, you'll find Bermudian cedar work, ceramics, candles, jewellery and textiles like needlework and quilts. You can also sample and buy Bermuda foods, like pepper jam from the Bermuda Jam Factory and Horton's original Bermuda Black Rum Cakes.
 
 ### Hamilton
+
 ##### [Bermuda Underwater Exploration Institute (BUEI)](https://www.buei.bm/)
 40 Crow Ln.  
 +1 (441) 292-7219
