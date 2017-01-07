@@ -115,6 +115,26 @@ REGULAR Opening Hours (Winter) - Monday to Saturday - 10am to 4pm. Sunday - 11am
 
 ### Hamilton
 
+##### Bouchêe Bistro Français
+![](/images/2017/01/interior.jpg)
+
+75 Pitts Bay Road  
+*This is my favorite restaurant in all of Bermuad!*
+
+##### Nonna’s Kitchen
+[http://nonnaskitchenbermuda.com/](http://nonnaskitchenbermuda.com/)  
+4 Bermudiana Road  
+Hamilton, Bermuda  
+
+*Near the hotel, and food looks good*
+> We are a soup and salad bar catering healthy, hearty soups and stews, and fresh delicious salads plus homemade gluten free baked goods.
+
+##### Mr. Chicken Restaurant
+[https://www.facebook.com/mrchickenbermuda/](https://www.facebook.com/mrchickenbermuda/)  
+27 Queen street  
+Hamilton, Bermuda  
++1 441-292-6109
+
 ##### Bermuda Underwater Exploration Institute (BUEI)
 [https://www.buei.bm/](https://www.buei.bm/)  
 40 Crow Ln.  
