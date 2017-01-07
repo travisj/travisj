@@ -125,3 +125,20 @@ REGULAR Opening Hours (Winter) - Monday to Saturday - 10am to 4pm. Sunday - 11am
 ### References
 * [21 Free or Affordable Things to Do in Bermuda](http://www.gotobermuda.com/list/21-free-or-affordable-things-to-do-bermuda)
 * [Exploring the Royal Naval Dockyard](http://www.gotobermuda.com/article/exploring-the-royal-naval-dockyard)
+
+## Inspiration from previous years
+![](/images/2017/01/773613_10100741707279576_2089037157_o.jpg)
+
+![](/images/2017/01/775691_10100741707858416_1403612396_o.jpg)
+
+![](/images/2017/01/774763_10151649801632786_1445748016_o.jpg)
+
+![](/images/2017/01/1532165_10101260877762766_824290862_n.jpg)
+
+![](/images/2017/01/843028_10152503286195604_1368364682_o.jpg)
+
+![](/images/2017/01/29352_561713707194891_1118087792_n.jpg)
+
+![](/images/2017/01/1010771_10101260878077136_627800597_n.jpg)
+
+![](/images/2017/01/318089_10100739313481766_4817321_n.jpg)
