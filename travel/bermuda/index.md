@@ -1,4 +1,7 @@
-# Bermuda 2017
+---
+layout: page
+title: "Bermuda 2017"
+---
 
 ![](/images/2017/01/city-of-hamilton-bermuda.jpg)
 
