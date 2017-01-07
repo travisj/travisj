@@ -61,42 +61,52 @@ Front Street
 
 ### Bermuda, general
 
-##### [Sea Express Ferries](http://www.marineandports.bm/)
+##### Sea Express Ferries
 ![](/images/2017/01/Bermuda-Sea-Express-Ferry.jpg)
 
+[http://www.marineandports.bm/](http://www.marineandports.bm/)  
 +1 (441) 295-4506  
 [Winter Schedule](http://www.marineandports.bm/Documents/Ferry/Winter_Schedule_2016-17.pdf)
 
 > The Blue Route serves Hamilton, Somerset and Dockyard ($4.50 in tokens or $5.00 in cash each way. The most economical option is a Transportation Pass which is valid on all routes on both ferries and buses and cost are, adult 1 day $19.00, 2 day $31.50, 3 day $44.00, 4 day $48.50
 
-##### [Railway Trail](http://www.gotobermuda.com/article/the-bermuda-railway-trail-national-park)
+##### Railway Trail
 ![](/images/2017/01/railway-trail-bikers-self-guided-tour.jpg)
 
+[http://www.gotobermuda.com/article/the-bermuda-railway-trail-national-park](http://www.gotobermuda.com/article/the-bermuda-railway-trail-national-park)
+
 > Spanning the island from end to end, the Railway Trail follows an abandoned railbed that winds through tranquil landscapes and along stunning rocky coastlines. Eighteen peaceful miles of island history and breathtaking views are yours to explore by foot or pedal bike, but no motorized vehicles are allowed.
+
 ### St. George's
 
-##### [Alex Pete S Bermuda Artisan Ice Cream](https://www.facebook.com/Alex-Petes-Bermuda-Artisan-Ice-Cream-725151774247002/)
+##### Alex & Pete's Bermuda Artisan Ice Cream
+
 Rose Hill  
+[https://www.facebook.com/Alex-Petes-Bermuda-Artisan-Ice-Cream-725151774247002/](https://www.facebook.com/Alex-Petes-Bermuda-Artisan-Ice-Cream-725151774247002/)  
 +1 (441) 337-6101  
 *Their ice cream looks good!*
 
 ### Dockyard
 
-##### [Royal Naval Dockyard](http://dockyardbermuda.com/)
+##### Royal Naval Dockyard
 ![](/images/2017/01/2016-08-14.jpg)
 
+[http://dockyardbermuda.com/](http://dockyardbermuda.com/)  
 +1 (441) 234-1709
 
 > Spend a day exploring Bermuda’s rich maritime history alongside shops, restaurants and museums at the Royal Naval Dockyard, one of the island’s major attractions and a lively port for cruise ships. A British Royal Navy stronghold for more than 150 years, the 19th-century fort that once kept guard over the West End houses the Bermuda National Museum. Nearby at the historic Clocktower Mall, you can shop local boutiques for jewellery, swimwear, handicrafts and more. Sample the famous cakes at Bermuda Rum Cake Company, and meet with local artists at the Bermuda Arts Centre. You’ll also find a seemingly endless list of activities, from bike rentals and snorkelling cruises to deep-water dolphin encounters.
 
-##### [National Museum of Bermuda](http://nmb.bm/)
+##### National Museum of Bermuda
+
 ![](/images/2017/01/BermudaDockyard.jpg)
 
+[http://nmb.bm/](http://nmb.bm/)  
 +1 (441) 234-1418
 
 > Explore more than 500 years of Bermuda’s history, from the settling of the island to its importance as a hub of shipping, sailing and boatmaking. The National Museum of Bermuda, formerly the Bermuda Maritime Museum, occupies several historic fortifications in the Royal Naval Dockyard, including the Commissioner’s House, Casemates Barracks and The Keep, Bermuda’s largest fort. Inside, you’ll see gold bars, jewellery and other treasures recovered from centuries-old shipwrecks by scuba diving archaeologists, or learn about the more than 90 forts around Bermuda in the Defence Heritage exhibit. And kids can crawl through a lighthouse and giant moray eel at the Museum Playground & Playhouse
 
-##### [Bermuda Craft Market](http://bermudacraftmarket.com/)
+##### Bermuda Craft Market
+[http://bermudacraftmarket.com/](http://bermudacraftmarket.com/)  
 4 MARITIME LN.  
 THE COOPERAGE BUILDING, SANDYS  
 REGULAR Opening Hours (Winter) - Monday to Saturday - 10am to 4pm. Sunday - 11am to 4pm
@@ -105,7 +115,8 @@ REGULAR Opening Hours (Winter) - Monday to Saturday - 10am to 4pm. Sunday - 11am
 
 ### Hamilton
 
-##### [Bermuda Underwater Exploration Institute (BUEI)](https://www.buei.bm/)
+##### Bermuda Underwater Exploration Institute (BUEI)
+[https://www.buei.bm/](https://www.buei.bm/)  
 40 Crow Ln.  
 +1 (441) 292-7219
 
