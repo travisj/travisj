@@ -73,12 +73,12 @@ Front Street
 
 ### Friday
 
-* Catch the 9am SeaExpress to the Dockyard
-* Explore the area, get some donuts at Glaze
-* Go to the National Museum of Bermuda
-* Check out the Bermuda Craft Market
-* Lunch at Hammerheads Bar & Grill
-* Head back to Hamilton on SeaExpress at either 12:45 or 2:15
+* Catch the 9am [SeaExpress](#sea-express-ferries) to the [Dockyard](#dockyard)
+* Explore the area, get some donuts at [Glaze](#glaze)
+* Go to the [National Museum of Bermuda](#national-museum-of-bermuda)
+* Check out the [Bermuda Craft Market](#bermuda-craft-market)
+* Lunch at [Hammerheads Bar & Grill](#hammerheads-bar--grill)
+* Head back to [Hamilton](#hamilton) on [SeaExpress](#sea-express-ferries) at either 12:45 or 2:15
 * Ken naps
 * 3:00 - 6:30 [Packet pickup](#packet-pickup)
 * Dinner?
