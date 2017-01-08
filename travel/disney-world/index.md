@@ -3,6 +3,7 @@ layout: "hiddenpage"
 title: "Disney World 2017"
 date: "2017-01-08"
 ---
+![](/images/2017/01/disneyworld-characters.jpg)
 
 We are planning a trip to Walt Disney World in Orlando to celebrate Ken's second birthday. This will be his first time to Disney World, but third trip to a Disney theme park. He's already been to both Disneyland and Disneyland Paris.
 
@@ -27,6 +28,10 @@ Sun, Feb 12 | MCO     | JetBlue Flight 698 | 7:30pm | 10:07pm
 February 8 - 12, 2017  
 Room Type: Tower - Theme Park View  
 Confirmation: 11234983  
+
+# Park Plans
+
+With four day park hopper tickets we plan to make the most of our time with a park in the morning, back to the hotel for a nap and then back at it in the evening.
 
 ## Links
 * [Our Disney Itineray](https://disneyworld.disney.go.com/plan/itinerary/2017-02-08/)
