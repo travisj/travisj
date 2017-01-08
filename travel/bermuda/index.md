@@ -27,13 +27,14 @@ Hamilton Parish CR04, Bermuda
 +1 441-293-8333
 
 ### Taxis
-##### Bermuda Island Taxi
-+1 441 295 4141  
-[http://bermudaislandtaxi.com/booking.html](http://bermudaislandtaxi.com/booking.html)
 
-##### Bermuda Taxi
+##### Bermuda Island Taxi
+[http://bermudaislandtaxi.com/booking.html](http://bermudaislandtaxi.com/booking.html)  
++1 441 295 4141  
+
+##### Bermuda Taxi 
+[http://www.btadispatching.com/](http://www.btadispatching.com/)  
 +1 441-296-2121  
-[http://www.btadispatching.com/](http://www.btadispatching.com/)
 
 ### Race Information
 ![](/images/2017/01/thumbs-up.jpg)
