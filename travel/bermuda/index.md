@@ -36,6 +36,10 @@ Hamilton Parish CR04, Bermuda
 [http://www.btadispatching.com/](http://www.btadispatching.com/)  
 +1 441-296-2121  
 
+### Bus
+[Routes and maps](https://www.gov.bm/bus-routes-and-maps)  
+*I can't actually find the maps, but it looks like route 10 and 11 will go between our hotels (more or less) and probably take about 40 minutes. A "booklet of 15" (rides?) costs $37.50 and these rides are good on both the bus and ferry. We should count up our proposed rides, but getting one booklet seems like a no-brainer*
+
 ### Race Information
 ![](/images/2017/01/thumbs-up.jpg)
 
@@ -76,7 +80,24 @@ Front Street
 * Lunch at Hammerheads Bar & Grill
 * Head back to Hamilton on SeaExpress at either 12:45 or 2:15
 * Ken naps
-* [Packet pickup](#packet-pickup)
+* 3:00 - 6:30 [Packet pickup](#packet-pickup)
+* Dinner?
+* 7:00 [Run the mile](#kpmg-front-street-mile)
+
+### Saturday
+
+* 9:00am [Bermuda 10k](#bermuda-10k)
+* Brunch at [Bouchêe Bistro Français](#bouche-bistro-franais)
+* head back to hotels, Ken naps
+* Meet for dinner
+
+### Sunday
+
+* 8:00 [Bermuda Marathon and Half Marathon](#bermuda-marathon-and-half-marathon)
+
+### Monday
+
+* 1:03pm flight home for Travis, Rachel & Kenneth
 
 ## Things to do
 
@@ -211,6 +232,18 @@ Washington Mall, Church Street
 +1 441-234-3100
 
 > Hammerheads Bar & Grill at Snorkel Park Beach is the only place to really relax and unwind island style! Take in spectacular beach & ocean views while you enjoy delicious food, snacks and the most refreshing frozen cocktails and swizzles on our huge terrace bar.
+
+## Flight Information
+
+#### JFK -> BDA (DL 437)
+Thursday, January 12th  
+Depart: 8:35am  
+Arrive: 12:03pm
+
+#### BDA -> JFK (DL 1773)
+Monday, January 16th  
+Depart: 1:03pm  
+Arrive: 2:29pm
 
 ### References
 * [21 Free or Affordable Things to Do in Bermuda](http://www.gotobermuda.com/list/21-free-or-affordable-things-to-do-bermuda)
