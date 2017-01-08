@@ -67,9 +67,9 @@ Front Street
 
 ### Thursday
 
-* Arrive early afternoon and check in to hotels
+* [Arrive](#jfk---bda-dl-437) early afternoon and check in to [hotels](#hotels)
 * Ken naps until about 4pm
-* Dinner at La Trattoria?
+* Dinner at [La Trattoria](#la-trattoria)?
 
 ### Friday
 
@@ -97,7 +97,7 @@ Front Street
 
 ### Monday
 
-* 1:03pm flight home for Travis, Rachel & Kenneth
+* 1:03pm [flight home](#bda---jfk-dl-1773) for Travis, Rachel & Kenneth
 
 ## Things to do
 
@@ -245,7 +245,7 @@ Monday, January 16th
 Depart: 1:03pm  
 Arrive: 2:29pm
 
-### References
+## References
 * [21 Free or Affordable Things to Do in Bermuda](http://www.gotobermuda.com/list/21-free-or-affordable-things-to-do-bermuda)
 * [Exploring the Royal Naval Dockyard](http://www.gotobermuda.com/article/exploring-the-royal-naval-dockyard)
 
