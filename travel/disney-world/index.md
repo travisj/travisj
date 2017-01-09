@@ -33,6 +33,31 @@ Confirmation: 11234983
 
 With four day park hopper tickets we plan to make the most of our time with a park in the morning, back to the hotel for a nap and then back at it in the evening.
 
+## Thursday, February 9th
+
+The plan for Thursday is to spend the whole day in Magic Kingdom. Our hotel is close and easy to get to, so we'll take a mid-day break for his nap after lunch.
+
+Park | Time | Attraction | Area | Notes
+-----|------|------------|------
+Magic Kingdom | 10:20 am | The Barnstormer | Fantasyland | Travis' PastPass+
+Magic Kingdom | 10:20 am | Meet Mickey Mouse at Town Square Theater | Main Stree, USA | Rachel's FastPass+
+Magic Kingdom | 11:20 am | Haunted Mansion | Liberty Square |
+Magic Kingdom | 12:35 pm | Liberty Tree Tavern | Liberty Square |
+Magic Kingdom | 4:55 pm | Buzz Lightyear's Space Ranger Spin | Tomorrowland |
+Magic Kingdom | 7:00 pm | Fireworks Dessert Party at Tomorrowland Terrace | Tomorrowland |
+
+## Friday, February 10th
+
+**🎉 Rachel's Birthday!  🎉**
+
+Today we are going to split our time between Magic Kingdom in the morning and Epcot in the afternoon. The day is light on reservations so we can focus on exploring and eating everywhere in the World Showcase.
+
+Park | Time | Attraction | Area | Notes
+-----|------|------------|------
+Epcot | 4:30 pm | The Seas with Nemo & Friends | Future World |
+Epcot | 8:40 pm | IllumiNations: Reflections of Earth | World Showcase Plaza | Arrive between 8:40 - 8:55 pm. Fireworks begin at 9:00 pm.
+
+
 ## Links
 * [Our Disney Itineray](https://disneyworld.disney.go.com/plan/itinerary/2017-02-08/)
 
