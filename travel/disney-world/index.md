@@ -57,6 +57,7 @@ Park | Time | Attraction | Area | Notes
 Epcot | 4:30 pm | The Seas with Nemo & Friends | Future World |
 Epcot | 8:40 pm | IllumiNations: Reflections of Earth | World Showcase Plaza | Arrive between 8:40 - 8:55 pm. Fireworks begin at 9:00 pm.
 
+# Additional Information
 
 ## Links
 * [Our Disney Itineray](https://disneyworld.disney.go.com/plan/itinerary/2017-02-08/)
