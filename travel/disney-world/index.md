@@ -7,7 +7,7 @@ date: "2017-01-08"
 
 We are planning a trip to Walt Disney World in Orlando to celebrate Ken's second birthday. This will be his first time to Disney World, but third trip to a Disney theme park. He's already been to both Disneyland and Disneyland Paris.
 
-Disney makes it easy to plan, but here's a few other details to help manage the trip.
+Disney makes it easy to plan, but here are other details to help manage the trip.
 
 * auto-generated toc will go here
 {:toc}
@@ -71,7 +71,7 @@ Park | Time | Attraction | Area | Notes
 -----|------|------------|------|------
 Animal Kingdom | 9:25 am | Kilimanjaro Safaris | Africa |
 Animal Kingdom Villas - Kidani Village | 12:25 pm | Sanaa for Lunch | |
-Animal Kingdom | 2:55 pm | Expedition Everest | Asia | Two FastPass+ just in case someone is napping at this time 😴
+Animal Kingdom | 2:55 pm | Expedition Everest | Asia | Two FastPass+ in case someone is napping 😴
 
 ## Sunday, February 12th
 
@@ -87,8 +87,7 @@ Magic Kingdom | 12:15 pm | Be Our Guest | Fantasyland |
 Magic Kingdom | 1:30 pm | The Magic Carpets of Aladdin | AdventureLand | FastPass+ for 1
 Magic Kingdom | 1:55 pm | Dumbo the Flying Elephant | Fantasyland | FastPass+ for 1
 
-
-# Additional Information
+# Information
 
 ## Links
 * [Our Disney Itineray](https://disneyworld.disney.go.com/plan/itinerary/2017-02-08/)
