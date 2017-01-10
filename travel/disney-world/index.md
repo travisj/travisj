@@ -35,6 +35,8 @@ With four day park hopper tickets we plan to make the most of our time with a pa
 
 ## Thursday, February 9th
 
+![](/images/2017/01/magic-kingdomv3-00-full.jpg)
+
 The plan for Thursday is to spend the whole day in Magic Kingdom. Our hotel is close and easy to get to, so we'll take a mid-day break for his nap after lunch.
 
 Park | Time | Attraction | Area | Notes
@@ -48,6 +50,8 @@ Magic Kingdom | 7:00 pm | Fireworks Dessert Party at Tomorrowland Terrace | Tomo
 
 ## Friday, February 10th
 
+![](/images/2017/01/epcot-overview-main-enterance-5x2.jpg)
+
 **🎉 Rachel's Birthday!  🎉**
 
 Today we are going to split our time between Magic Kingdom in the morning and Epcot in the afternoon. The day is light on reservations so we can focus on exploring and eating everywhere in the World Showcase.
@@ -59,6 +63,8 @@ Epcot | 8:40 pm | IllumiNations: Reflections of Earth | World Showcase Plaza | A
 
 ## Saturday, February 11th
 
+![](/images/2017/01/animal-kingdom-overview-02.jpg)
+
 Today we are going to Animal Kingdom and looking forward to our morning safari and lunch at Sanaa.
 
 Park | Time | Attraction | Area | Notes
@@ -68,6 +74,8 @@ Animal Kingdom Villas - Kidani Village | 12:25 pm | Sanaa for Lunch | |
 Animal Kingdom | 2:55 pm | Expedition Everest | Asia | Two FastPass+ just in case someone is napping at this time 😴
 
 ## Sunday, February 12th
+
+![](/images/2017/01/magic-kingdom-gallery17.jpg)
 
 Our last day in town and we've packed it full of fun at Magic Kingdom with rides and food before we catch the bus back to the airport.
 
