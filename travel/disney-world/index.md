@@ -9,6 +9,8 @@ We are planning a trip to Walt Disney World in Orlando to celebrate Ken's second
 
 Disney makes it easy to plan, but here's a few other details to help manage the trip.
 
+Watch @rljart and @travisj for all our adventures!
+
 * auto-generated toc will go here
 {:toc}
 
@@ -38,7 +40,7 @@ With four day park hopper tickets we plan to make the most of our time with a pa
 The plan for Thursday is to spend the whole day in Magic Kingdom. Our hotel is close and easy to get to, so we'll take a mid-day break for his nap after lunch.
 
 Park | Time | Attraction | Area | Notes
------|------|------------|------
+-----|------|------------|------|------
 Magic Kingdom | 10:20 am | The Barnstormer | Fantasyland | Travis' PastPass+
 Magic Kingdom | 10:20 am | Meet Mickey Mouse at Town Square Theater | Main Stree, USA | Rachel's FastPass+
 Magic Kingdom | 11:20 am | Haunted Mansion | Liberty Square |
@@ -53,9 +55,21 @@ Magic Kingdom | 7:00 pm | Fireworks Dessert Party at Tomorrowland Terrace | Tomo
 Today we are going to split our time between Magic Kingdom in the morning and Epcot in the afternoon. The day is light on reservations so we can focus on exploring and eating everywhere in the World Showcase.
 
 Park | Time | Attraction | Area | Notes
------|------|------------|------
+-----|------|------------|------|------
 Epcot | 4:30 pm | The Seas with Nemo & Friends | Future World |
 Epcot | 8:40 pm | IllumiNations: Reflections of Earth | World Showcase Plaza | Arrive between 8:40 - 8:55 pm. Fireworks begin at 9:00 pm.
+
+## Saturday, February 11th
+
+Today we are going to Animal Kingdom and looking forward to our morning safari and lunch at Sanaa.
+
+Park | Time | Attraction | Area | Notes
+-----|------|------------|------|------
+Animal Kingdom | 9:25 am | Kilimanjaro Safaris | Africa |
+Animal Kingdom Villas - Kidani Village | 12:25 pm | Sanaa for Lunch | |
+Animal Kingdom | 2:55 pm | Expedition Everest | Asia | Two FastPass+ just in case someone is napping at this time 😴
+
+## Sunday, February 12th
 
 # Additional Information
 
@@ -63,4 +77,4 @@ Epcot | 8:40 pm | IllumiNations: Reflections of Earth | World Showcase Plaza | A
 * [Our Disney Itineray](https://disneyworld.disney.go.com/plan/itinerary/2017-02-08/)
 
 ## More to consider
-* https://www.yahoo.com/style/disney-world-rolling-ridiculously-affordable-001223891.html
+* [https://www.yahoo.com/style/disney-world-rolling-ridiculously-affordable-001223891.html](https://www.yahoo.com/style/disney-world-rolling-ridiculously-affordable-001223891.html)
