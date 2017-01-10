@@ -71,6 +71,17 @@ Animal Kingdom | 2:55 pm | Expedition Everest | Asia | Two FastPass+ just in cas
 
 ## Sunday, February 12th
 
+Our last day in town and we've packed it full of fun at Magic Kingdom with rides and food before we catch the bus back to the airport.
+
+Park | Time | Attraction | Area | Notes
+-----|------|------------|------|------
+Magic Kingdom | 9:00 am | Mad Tea Party | Fantasyland | All three of us at once, it's a tradition! 📷
+Magic Kingdom | 11:30 am | Jungle Cruise | AdventureLand | The backside of water!
+Magic Kingdom | 12:15 pm | Be Our Guest | Fantasyland |
+Magic Kingdom | 1:30 pm | The Magic Carpets of Aladdin | AdventureLand | FastPass+ for 1
+Magic Kingdom | 1:55 pm | Dumbo the Flying Elephant | Fantasyland | FastPass+ for 1
+
+
 # Additional Information
 
 ## Links
