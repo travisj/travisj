@@ -9,8 +9,6 @@ We are planning a trip to Walt Disney World in Orlando to celebrate Ken's second
 
 Disney makes it easy to plan, but here's a few other details to help manage the trip.
 
-Watch @rljart and @travisj for all our adventures!
-
 * auto-generated toc will go here
 {:toc}
 
