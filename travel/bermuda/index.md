@@ -19,12 +19,13 @@ title: "Bermuda 2017"
 HM08, Bermuda  
 +1 441-295-3000
 
-#### Grotto Bay Beach Resort & Spa (Roshan and Nate)
-![](/images/2017/01/grotto-bay.png)
+#### Fairmont Southampton (Roshan and Nate)
+![](/images/2017/01/fairmont-southampton.png)
 
-11 Blue Hole Hill Hamilton  
-Hamilton Parish CR04, Bermuda  
-+1 441-293-8333
+101 South Shore Road  
+Southampton SN02, Bermuda  
++1 441-238-8000
+
 
 ### Taxis
 
@@ -134,6 +135,7 @@ Front Street
 Hamilton, Bermuda
 
 *Near the hotel, and food looks good*
+
 > We are a soup and salad bar catering healthy, hearty soups and stews, and fresh delicious salads plus homemade gluten free baked goods.
 
 ##### Portofino
@@ -165,7 +167,7 @@ Baileys Bay CR 04
 +1 (441) 293-1854  
 *Very close to the Grotto Bay Hotel*
 
-##### Bermuda Aqarium, Museum, and Zoo
+##### Bermuda Aquarium, Museum, and Zoo
 [http://www.bamz.org/](http://www.bamz.org/)  
 
 *Close to Grotto Bay Hotel*
