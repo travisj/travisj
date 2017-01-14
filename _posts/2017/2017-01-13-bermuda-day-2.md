@@ -40,6 +40,8 @@ After a little down time at the hotel, it was time for today's main event - The 
 
 ![](/images/2017/01/IMG_0765.jpg)
 
+![](/images/2017/01/16002809_10102963014891316_84456959433467821_n.jpg)
+
 The race went well, I finished in 6:33, which was good enough for my fastest Front Steet Mile yet. Due to injury, I haven't been running too much over the last six weeks, so I plan to take it easy tomorrow and hope to run the marathon on Sunday.
 
 I'll keep you posted.
