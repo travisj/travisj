@@ -14,4 +14,4 @@ In preparation for the race tomorrow, we came back to the hotel for some rest. K
 
 I took a time-lapse video with my Garmin Virb during the race today that turned out well. Ken kicked it a few times and it mysteriously turned off midway through the run and took a few minutes before I noticed. Enjoy.
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/5Y8tuIW-Avc" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/5Y8tuIW-Avc" frameborder="0" allowfullscreen></iframe>
