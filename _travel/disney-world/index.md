@@ -1,5 +1,5 @@
 ---
-layout: "hiddenpage"
+layout: "page"
 title: "Disney World 2017"
 date: "2017-01-08"
 ---

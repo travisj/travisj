@@ -27,5 +27,9 @@ github:
 
 jekyll-mentions: https://instagram.com
 
+collections:
+    travel:
+        output: true
+
 gems:
     - jekyll-mentions

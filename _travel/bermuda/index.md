@@ -1,5 +1,5 @@
 ---
-layout: hiddenpage
+layout: page
 title: "Bermuda 2017"
 ---
 
